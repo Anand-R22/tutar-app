@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TutAR — 3D Model Search</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Sidebar -->
+<div class="sidebar">
+  <div class="sidebar-logo">
+    <div class="logo-box">T</div>
+    <span>TutAR</span>
+  </div>
+  <nav class="sidebar-nav">
+    <a class="nav-item active" href="#">
+      <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      Search Models
+    </a>
+    <a class="nav-item" href="#">
+      <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M3 3h18v18H3z"/></svg>
+      My Canvas
+    </a>
+    <a class="nav-item" href="#">
+      <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+      All Models
+    </a>
+  </nav>
+  <div class="sidebar-bottom">
+    <div class="teacher-card">
+      <div class="teacher-avatar">SR</div>
+      <div>
+        <div class="teacher-name">Teacher</div>
+        <div class="teacher-role">Educator</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Main -->
+<div class="main">
+
+  <!-- Top bar -->
+  <div class="topbar">
+    <div>
+      <h1 class="page-title">Search 3D Models</h1>
+      <p class="page-sub">Find the best 3D models for your classroom</p>
+    </div>
+    <div class="topbar-right">
+      <div class="stat-pill" id="totalPill">Loading...</div>
+    </div>
+  </div>
+
+  <!-- Search Panel -->
+  <div class="search-panel">
+    <div class="search-filters">
+      <div class="filter-group">
+        <label>Class</label>
+        <select id="classSelect">
+          <option value="">All Classes</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label>Subject</label>
+        <select id="subjectSelect" disabled>
+          <option value="">All Subjects</option>
+        </select>
+      </div>
+      <div class="filter-group search-input-group">
+        <label>Search</label>
+        <div class="search-input-wrap">
+          <svg class="search-icon" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input type="text" id="queryInput" placeholder="e.g. plant, magnet, photosynthesis..." />
+        </div>
+      </div>
+      <div class="filter-group">
+        <label>&nbsp;</label>
+        <button class="btn-search" onclick="doSearch()">Search</button>
+      </div>
+    </div>
+
+    <div class="quick-searches">
+      <span>Quick search:</span>
+      <a onclick="quickSearch('Kindergarten','EVS','plant')">KG · Plant</a>
+      <a onclick="quickSearch('6','Science','magnet')">Class 6 · Magnet</a>
+      <a onclick="quickSearch('11','Biology','photosynthesis')">Class 11 · Photosynthesis</a>
+      <a onclick="quickSearch('12','Chemistry','crystal')">Class 12 · Crystal</a>
+      <a onclick="quickSearch('3','EVS','food')">Class 3 · Food</a>
+      <a onclick="quickSearch('8','Science','cell')">Class 8 · Cell</a>
+    </div>
+  </div>
+
+  <!-- Empty state -->
+  <div class="empty-state" id="emptyState">
+    <div class="empty-icon">🔍</div>
+    <h3>Search for 3D Models</h3>
+    <p>Select your class and subject, then type a topic to find the most relevant 3D models for your lesson.</p>
+  </div>
+
+  <!-- Loading -->
+  <div class="loading hidden" id="loading">
+    <div class="spinner"></div>
+    <p>Searching with HNSW vector search...</p>
+  </div>
+
+  <!-- Results -->
+  <div class="results hidden" id="results">
+
+    <!-- Stats bar -->
+    <div class="results-bar">
+      <div class="results-bar-left">
+        <span id="resultsTitle">Results</span>
+        <span class="results-count" id="resultsCount"></span>
+      </div>
+      <button class="btn-toggle" id="btnToggle" onclick="togglePanel()">
+        Show Pipeline Stats ↓
+      </button>
+    </div>
+
+    <!-- Pipeline Stats (collapsible) -->
+    <div class="pipeline-panel hidden" id="pipelinePanel">
+      <div class="pipeline-grid">
+        <div class="pipe-stat">
+          <div class="pipe-stat-label">Total Models</div>
+          <div class="pipe-stat-value red" id="pTotal">—</div>
+          <div class="pipe-stat-sub">Full catalogue</div>
+        </div>
+        <div class="pipe-stat">
+          <div class="pipe-stat-label">HNSW Retrieved</div>
+          <div class="pipe-stat-value green" id="pMatched">—</div>
+          <div class="pipe-stat-sub">Semantically matched</div>
+        </div>
+        <div class="pipe-stat">
+          <div class="pipe-stat-label">Token Reduction</div>
+          <div class="pipe-stat-value purple" id="pReduction">—</div>
+          <div class="pipe-stat-sub">Tokens saved</div>
+        </div>
+        <div class="pipe-stat">
+          <div class="pipe-stat-label">Search Time</div>
+          <div class="pipe-stat-value blue" id="pLatency">—</div>
+          <div class="pipe-stat-sub">HNSW vector search</div>
+        </div>
+      </div>
+
+      <div class="token-bars">
+        <div class="token-row">
+          <div class="token-label">
+            <span>Before — All models sent to AI</span>
+            <span class="token-val red" id="tBefore">—</span>
+          </div>
+          <div class="token-track">
+            <div class="token-fill red-fill" id="barBefore" style="width:0%"></div>
+          </div>
+        </div>
+        <div class="token-row">
+          <div class="token-label">
+            <span>After — Only matched models sent</span>
+            <span class="token-val green" id="tAfter">—</span>
+          </div>
+          <div class="token-track">
+            <div class="token-fill green-fill" id="barAfter" style="width:0%"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="prompt-preview">
+        <div class="prompt-preview-title">
+          Optimized AI Prompt Preview
+          <span class="prompt-badge" id="promptBadge">0 models injected</span>
+        </div>
+        <pre class="prompt-code" id="promptCode"></pre>
+      </div>
+    </div>
+
+    <!-- Model cards grid -->
+    <div class="model-grid" id="modelGrid"></div>
+
+  </div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

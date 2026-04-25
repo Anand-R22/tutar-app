@@ -1,0 +1,4743 @@
+{
+  "Kindergarten": {
+    "Animals": {
+      "Animal Homes": [
+        "Ant and Anthill",
+        "Bird and Nest",
+        "Cow and Shed",
+        "Dog and Kennel",
+        "Hare and Burrow",
+        "Honeybee and Beehive",
+        "Horse and Stable",
+        "Lion and Den"
+      ],
+      "Baby Animals": [
+        "Cow and Calf",
+        "Dog and puppy",
+        "Goat and Kid",
+        "Hen and Chick",
+        "Sheep and Lamp"
+      ],
+      "Birds": [
+        "Eagle",
+        "Penguin",
+        "Pigeon",
+        "Peacock"
+      ],
+      "Domestic Animals": [
+        "Cow",
+        "Horse"
+      ],
+      "Wild Animals": [
+        "Crocodile",
+        "Elephant",
+        "Hippopotamus",
+        "Lioness",
+        "Rhinoceros",
+        "Tiger"
+      ]
+    },
+    "English": {
+      "Letter A": [
+        "Ant",
+        "Apple",
+        "Axe",
+        "Capital A",
+        "Small A",
+        "Writing Capital A",
+        "Writing Small A"
+      ],
+      "Letter B": [
+        "Bag",
+        "Ball",
+        "Bow and Arrow",
+        "Capital B",
+        "Small B",
+        "Writing Capital B",
+        "Writing Small B"
+      ],
+      "Letter C": [
+        "Cat",
+        "Cup",
+        "Capital C",
+        "Small C",
+        "Writing Capital C",
+        "Writing Small C"
+      ],
+      "Letter D": [
+        "Dog",
+        "Doll",
+        "Drum",
+        "Duck",
+        "Capital D",
+        "Small D",
+        "Writing Capital D",
+        "Writing Small D"
+      ],
+      "Letter E": [
+        "Egg",
+        "Envelope",
+        "Capital E",
+        "Small E",
+        "Writing Capital E",
+        "Writing Small E"
+      ],
+      "Letter F": [
+        "Fan",
+        "Fence",
+        "Fish",
+        "Capital F",
+        "Small F",
+        "Writing Capital F",
+        "Writing Small F"
+      ],
+      "Letter G": [
+        "Gate",
+        "Glass",
+        "Glue",
+        "Goat",
+        "Capital G",
+        "Small G",
+        "Writing Capital G",
+        "Writing Small G"
+      ],
+      "Letter H": [
+        "Hat",
+        "Hen",
+        "Capital H",
+        "Small H",
+        "Writing Capital H",
+        "Writing Small H"
+      ],
+      "Letter I": [
+        "Ice Cream",
+        "igloo",
+        "Ink",
+        "Capital I",
+        "Small I",
+        "Writing Capital I",
+        "Writing Small I"
+      ],
+      "Letter J": [
+        "Jelly",
+        "Jug",
+        "Juice",
+        "Capital J",
+        "Small J",
+        "Writing Capital J",
+        "Writing Small J"
+      ],
+      "Letter K": [
+        "Kettle",
+        "Key",
+        "King",
+        "Kite",
+        "Capital K",
+        "Small K",
+        "Writing Capital K",
+        "Writing Small K"
+      ],
+      "Letter L": [
+        "Ladder",
+        "Lamp",
+        "Lock",
+        "Capital L",
+        "Small L",
+        "Writing Capital L",
+        "Writing Small L"
+      ],
+      "Letter M": [
+        "Mango",
+        "Moon",
+        "Mug",
+        "Capital M",
+        "Small M",
+        "Writing Capital M",
+        "Writing Small M"
+      ],
+      "Letter N": [
+        "Nest",
+        "Net",
+        "Nuts",
+        "Capital N",
+        "Small N",
+        "Writing Capital N",
+        "Writing Small N"
+      ],
+      "Letter O": [
+        "Octopus",
+        "Owl",
+        "Capital O",
+        "Small O",
+        "Writing Capital O",
+        "Writing Small O"
+      ],
+      "Letter P": [
+        "Pen",
+        "Capital P",
+        "Small P",
+        "Writing Capital P",
+        "Writing Small P"
+      ],
+      "Letter Q": [
+        "Queen",
+        "Queue",
+        "Quill",
+        "Quilt",
+        "Capital Q",
+        "Small Q",
+        "Writing Capital Q",
+        "Writing Small Q"
+      ],
+      "Letter R": [
+        "Rabbit",
+        "Rain",
+        "Rat",
+        "Capital R",
+        "Small R",
+        "Writing Capital R",
+        "Writing Small R"
+      ],
+      "Letter S": [
+        "seesaw",
+        "Spoon",
+        "Capital S",
+        "Small S",
+        "Writing Capital S",
+        "Writing Small S"
+      ],
+      "Letter T": [
+        "Tree",
+        "Capital T",
+        "Small T",
+        "Writing Capital T",
+        "Writing Small T"
+      ],
+      "Letter U": [
+        "Umbrella",
+        "Uniform",
+        "Urn",
+        "Capital U",
+        "Small U",
+        "Writing Capital U",
+        "Writing Small U"
+      ],
+      "Letter V": [
+        "Van",
+        "Vase",
+        "Violin",
+        "Capital V",
+        "Small V",
+        "Writing Capital V",
+        "Writing Small V"
+      ],
+      "Letter W": [
+        "Watch",
+        "Whale",
+        "Wheel",
+        "Window",
+        "Capital W",
+        "Small W",
+        "Writing Capital W",
+        "Writing Small W"
+      ],
+      "Letter X": [
+        "X Mas Tree",
+        "X Ray",
+        "X Ray Fish",
+        "Xylophone",
+        "Capital X",
+        "Small X",
+        "Writing Capital X",
+        "Writing Small X"
+      ],
+      "Letter Y": [
+        "Yacht",
+        "Yarn",
+        "Yo Yo",
+        "Yolk",
+        "Capital Y",
+        "Small Y",
+        "Writing Capital Y",
+        "Writing Small Y"
+      ],
+      "Letter Z": [
+        "Zebra",
+        "Zero",
+        "Zig Zag",
+        "Zipper",
+        "Capital Z",
+        "Small Z",
+        "Writing Capital Z",
+        "Writing Small Z"
+      ],
+      "Vowels": [
+        "Vowel A",
+        "Vowel E",
+        "Vowel I",
+        "Vowel O",
+        "Vowel U",
+        "Vowels"
+      ]
+    },
+    "EVS": {
+      "Birds": [
+        "Eagle",
+        "Penguin",
+        "Pigeon",
+        "Peacock"
+      ],
+      "Living Things": [
+        "Human",
+        "Plant",
+        "Animals",
+        "Grass",
+        "Stone"
+      ],
+      "Time": [
+        "Day",
+        "Night",
+        "Sunrise and Sunset",
+        "Telling Time"
+      ]
+    },
+    "Maths": {
+      "Above and Below": [
+        "Ant and Butterfly",
+        "Eagle and Cat"
+      ],
+      "Addition": [
+        "Addition Example 1",
+        "Addition Example 2",
+        "Addition Example 3"
+      ],
+      "Ascending and Descending Order": [
+        "Ascending Order",
+        "Descending Order"
+      ],
+      "Big-Small": [
+        "Apple-Strawberry",
+        "Big-Bigger-Biggest",
+        "Elephant-Ant",
+        "Small Smaller Smallest"
+      ],
+      "Greater Than and Less Than": [
+        "Greater Than",
+        "Less Than"
+      ],
+      "Heavy-Light": [
+        "Brick Balloon",
+        "Pumpkin Cherry",
+        "Stone and Feather"
+      ],
+      "Inside and Outside": [
+        "Bird and Nest Inside-Outside",
+        "Cat and Kitten",
+        "Inside-Outside 3"
+      ],
+      "Inside-Outside": [
+        "Inside-Outside 1",
+        "Inside-Outside 2"
+      ],
+      "Money": [
+        "Clock",
+        "Fifty Rupee Note",
+        "Five Hundred Rupees Note",
+        "Five Rupee Coin",
+        "Five Rupees Note",
+        "Fruit Basket",
+        "Hundred Rupees Note",
+        "Indian Rupee Currency Symbol",
+        "One Rupee Coin",
+        "One Rupees Note",
+        "Pen",
+        "Ten Rupee Coin",
+        "Ten Rupees Note",
+        "Twenty Rupees Note",
+        "Two Hundred Rupees Note",
+        "Two Rupee Coin",
+        "Two Rupees Note",
+        "Two Thousand Rupees Note",
+        "Umbrella",
+        "Cookies",
+        "Water",
+        "Height",
+        "Home Loan",
+        "Length",
+        "Litre",
+        "Money"
+      ],
+      "More-Less": [
+        "Bird and Dog",
+        "Cat and Aeroplane",
+        "Dog and bird"
+      ],
+      "Near-Far": [
+        "Tortoise and Rabbit",
+        "Cat and Mouse",
+        "Monkey and Cow"
+      ],
+      "Numbers": [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "Five",
+        "Six",
+        "Seven",
+        "Eight",
+        "Nine",
+        "Ten",
+        "Eleven",
+        "Twelve",
+        "Thirteen",
+        "Fourteen",
+        "Fifteen",
+        "Sixteen",
+        "Seventeen",
+        "Eighteen",
+        "Nineteen",
+        "Twenty",
+        "Hundred"
+      ],
+      "Numbers From 51 to 70": [
+        "Fifty",
+        "Fifty One",
+        "Fifty Two",
+        "Fifty Three",
+        "Fifty Four",
+        "Fifty Five",
+        "Fifty Six",
+        "Fifty Seven",
+        "Fifty Eight",
+        "Fifty Nine",
+        "Sixty",
+        "Sixty One",
+        "Sixty Two",
+        "Sixty Three",
+        "Sixty Four",
+        "Sixty Five",
+        "Sixty Six",
+        "Sixty Seven",
+        "Sixty Eight",
+        "Sixty Nine",
+        "Numbers from 51 to 60",
+        "Numbers From 61 to 70"
+      ],
+      "Numbers From 71 to 90": [
+        "Seventy",
+        "Seventy One",
+        "Seventy Two",
+        "Seventy Three",
+        "Seventy Four",
+        "Seventy Five",
+        "Seventy Six",
+        "Seventy Seven",
+        "Seventy Eight",
+        "Seventy Nine",
+        "Eighty",
+        "Eighty One",
+        "Eighty Two",
+        "Eighty Three",
+        "Eighty Four",
+        "Eighty Five",
+        "Eighty Six",
+        "Eighty Seven",
+        "Eighty Eight",
+        "Eighty Nine",
+        "Numbers from 71 to 80",
+        "Numbers from 81 to 90"
+      ],
+      "Numbers From 91 to 100": [
+        "Ninety",
+        "Ninety One",
+        "Ninety Two",
+        "Ninety Three",
+        "Ninety Four",
+        "Ninety Five",
+        "Ninety Six",
+        "Ninety Seven",
+        "Ninety Eight",
+        "Ninety Nine",
+        "Hundred",
+        "Numbers from 91 to 100"
+      ],
+      "One and Many": [
+        "Rat and Rats"
+      ],
+      "One-Many": [
+        "Balloon and Balloons",
+        "Book and Books",
+        "Plant and Plants",
+        "Stars"
+      ],
+      "Same - Different": [
+        "Giraffe and Monkey",
+        "Man and Baby"
+      ],
+      "Subtraction": [
+        "Subtraction Example 1",
+        "Subtraction Example 2",
+        "Subtraction Example 3"
+      ],
+      "Tall and Short": [
+        "Short, Shorter and Shortest",
+        "Tall Taller Tallest"
+      ],
+      "Thick and Thin": [
+        "Thick and Thin Book",
+        "Thick and Thin Candle",
+        "Thick and Thin Log"
+      ],
+      "Time": [
+        "Clock",
+        "Day",
+        "Night",
+        "Telling Time"
+      ],
+      "Top and Bottom": [
+        "Filling Water",
+        "Growth of a Plant"
+      ],
+      "Writing Numbers": [
+        "Writing One",
+        "Writing Two",
+        "Writing Three",
+        "Writing Four",
+        "Writing Five",
+        "Writing Six",
+        "Writing Seven",
+        "Writing Eight",
+        "Writing Nine",
+        "Writing Zero"
+      ]
+    },
+    "GK": {
+      "Colours": [
+        "Black",
+        "Blue",
+        "Green",
+        "Orange",
+        "Pink",
+        "Purple",
+        "Red",
+        "White",
+        "Yellow"
+      ],
+      "Days, Weeks and Months": [
+        "Days of Week",
+        "Months in a Year",
+        "Calendar",
+        "Months"
+      ],
+      "Festivals": [
+        "Christmas",
+        "Diwali",
+        "Eid",
+        "Holi",
+        "Onam",
+        "Vishu"
+      ],
+      "Flowers": [
+        "Bougainvillea",
+        "Dahlia",
+        "Hibiscus",
+        "Jasmine",
+        "Marigold",
+        "Rose",
+        "Sunflower",
+        "Water Hyacinth",
+        "Water Lily",
+        "Lotus"
+      ],
+      "Fruits": [
+        "Apple",
+        "Banana",
+        "Grapes",
+        "Jackfruit",
+        "Mango",
+        "Mango Slice",
+        "Orange",
+        "Orange Peeled Off",
+        "Papaya",
+        "Papaya Cross Section",
+        "Pineapple",
+        "Watermelon"
+      ],
+      "Keep Clean": [
+        "Bathing",
+        "Brushing the Teeth",
+        "Combing",
+        "Combing Hair",
+        "Washing Hands",
+        "Wear Clean Clothes",
+        "Slate"
+      ],
+      "Map of India": [
+        "Map of India"
+      ],
+      "Means of Communication": [
+        "Laptop",
+        "Newspaper",
+        "Telephone",
+        "Television"
+      ],
+      "My Family": [
+        "Brother and Sister",
+        "Grandparents",
+        "Parents"
+      ],
+      "My Places": [
+        "Classroom",
+        "Fire Station",
+        "Hospital",
+        "Market",
+        "Playground",
+        "Railway Station",
+        "School"
+      ],
+      "My School": [
+        "School",
+        "Classroom"
+      ],
+      "National Symbols": [
+        "National Flag",
+        "Satyameva Jayate",
+        "Peacock",
+        "Tiger",
+        "Lotus"
+      ],
+      "People Who Help Us": [
+        "Barber",
+        "Blacksmith",
+        "Carpenter",
+        "Doctor",
+        "Farmer",
+        "Fire Man",
+        "Nurse",
+        "Painter",
+        "Police Man",
+        "Postman",
+        "Teacher"
+      ],
+      "Time": [
+        "Hour and Minute Hand",
+        "Clock",
+        "Day",
+        "Night"
+      ],
+      "Vegetables": [
+        "Beetroot",
+        "Bitter Gourd",
+        "Brinjal",
+        "Cabbage",
+        "Carrot",
+        "Cauliflower",
+        "Cucumber",
+        "Cucumber Slice",
+        "Lady's Finger",
+        "Onion",
+        "Onion Cross Section",
+        "Potato",
+        "Pumpkin",
+        "Radish",
+        "Spinach",
+        "Tomato",
+        "Tomato Cross section"
+      ],
+      "Vehicle on Air": [
+        "Aeroplane",
+        "Helicopter",
+        "Hot Balloon",
+        "Rocket",
+        "Blimp",
+        "Parachute"
+      ],
+      "World Wonders": [
+        "Chichen Itza",
+        "Christ The Redeemer",
+        "Colosseum",
+        "Great Wall of China",
+        "Machu Picchu",
+        "Petra",
+        "Taj Mahal",
+        "Eiffel Tower",
+        "Pisa Tower",
+        "Statue of Liberty"
+      ]
+    }
+  },
+  "Miscellaneous": {
+    "Animals": {
+      "Aquatic Animals": [
+        "Crab",
+        "Whale",
+        "Dolphin",
+        "Fish",
+        "Shark",
+        "Octopus",
+        "Squid",
+        "Tortoise",
+        "Beluga Sturgeon",
+        "Bobtail Squid",
+        "Hammerhead Shark",
+        "Starfish",
+        "Tuna"
+      ]
+    },
+    "EVS": {
+      "Space": [
+        "Astronaut",
+        "GSLV",
+        "Hubble Space Telescope",
+        "PSLV",
+        "Satellite",
+        "Telescope",
+        "Vikram Lander"
+      ]
+    },
+    "Science": {
+      "Body Science": [
+        "Chromosome",
+        "Floor of Mouth and Pharynx",
+        "Lumbar Puncture and Layers of Spine",
+        "Viscosity"
+      ]
+    },
+    "Social Science": {
+      "General": [
+        "Dog Skeleton",
+        "Prokaryotes"
+      ]
+    },
+    "General": {
+      "Advanced Devices": [
+        "Apple Vision Pro",
+        "Ray-Ban Wayfarer",
+        "Smart Watch",
+        "VR Headset"
+      ],
+      "Animals": [
+        "Alpaca",
+        "Antelope",
+        "Armadillo",
+        "Chimpanzee",
+        "Ferret",
+        "Komodo Dragon",
+        "Moose",
+        "Mouflon",
+        "Panther",
+        "Raccoon",
+        "Skunk",
+        "Wolverine"
+      ],
+      "Antibodies": [
+        "Antibodies",
+        "Antibody Molecule"
+      ],
+      "Aquatic Animals": [
+        "Beluga Sturgeon",
+        "Bobtail Squid",
+        "Hammerhead Shark",
+        "Starfish",
+        "Tuna"
+      ],
+      "Armed Forces": [
+        "Military Tanker",
+        "War Ship"
+      ],
+      "Biology Lab Equipment": [
+        "Binocular Microscope",
+        "Compound Microscope",
+        "Dissecting Tray",
+        "Forceps",
+        "Permanent Slide",
+        "Probing Needle",
+        "Reagent Bottle",
+        "Scalpels",
+        "Spatula",
+        "Stereo Microscope"
+      ],
+      "Chemistry Lab Equipment": [
+        "Analytical Balance",
+        "Beaker",
+        "Burette",
+        "Clamp Stand",
+        "Crucible",
+        "Dropper",
+        "Funnel",
+        "Glass Rod",
+        "Measuring Jar",
+        "Pipette",
+        "Test Tube",
+        "Test Tube Holder",
+        "Bunsen Burner",
+        "Condenser",
+        "Watch Glass"
+      ],
+      "Communication Devices": [
+        "Modem",
+        "Pager",
+        "Payphone"
+      ],
+      "Computer Lab Equipment": [
+        "CPU",
+        "CRT Monitor",
+        "Keyboard",
+        "Monitor",
+        "Motherboard",
+        "Mouse",
+        "Printer",
+        "RAM",
+        "Scanner",
+        "Speaker",
+        "Wacom Tablet"
+      ],
+      "Entertainment Devices": [
+        "Cassette",
+        "DVD Player",
+        "Earbuds",
+        "Earphone",
+        "Headphone",
+        "Joystick",
+        "Radio",
+        "Walkman"
+      ],
+      "Evolution Camera": [
+        "Argus Camera",
+        "CCTV",
+        "Drone",
+        "Exacta Varex",
+        "GO Pro",
+        "Twin Lens Reflex Camera",
+        "Webcam"
+      ],
+      "Extinct Animals": [
+        "Allosaurus",
+        "Ankylosaur",
+        "Branchiosaurus",
+        "Dinosaur",
+        "Megalodon",
+        "Mosasaurs",
+        "Saber Tooth Tiger",
+        "Stegosaur",
+        "Stylinodon",
+        "Triceratops",
+        "Tyrannosaurus Rex",
+        "Velociraptor"
+      ],
+      "Fossil": [
+        "Fossil"
+      ],
+      "Globe": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Australia",
+        "Continents",
+        "Europe",
+        "North America",
+        "Oceans",
+        "South America",
+        "Globe"
+      ],
+      "Heart Cross Section": [
+        "Heart Relaxation And Contraction",
+        "Heart",
+        "Position of Heart"
+      ],
+      "Home Utensils": [
+        "Cutting Board",
+        "Pressure Cooker"
+      ],
+      "Household Appliances": [
+        "Air Conditioner",
+        "Air Purifier",
+        "Coffee Machine",
+        "Food Mixer",
+        "Hair Dryer",
+        "Kettle",
+        "Microwave Oven",
+        "Rice Cooker",
+        "Toaster",
+        "Vacuum Cleaner",
+        "Water Cooler"
+      ],
+      "Human Body": [
+        "Anatomy of Ear",
+        "Anatomy of Skin",
+        "Human Body",
+        "Human Body Anatomy",
+        "Human Thorax",
+        "Kidney Cross Section",
+        "Pancreas",
+        "Vertebral Column"
+      ],
+      "Junk Food": [
+        "Burger",
+        "French Fries",
+        "Sandwich",
+        "Pizza",
+        "Fries",
+        "Chips",
+        "Cake"
+      ],
+      "Labour Tools": [
+        "Angle Grinder",
+        "Bolt Cutter",
+        "Chainsaw",
+        "Chisel",
+        "Clamp",
+        "Concrete Mixer",
+        "Crow Bar",
+        "Drill",
+        "File",
+        "Framing Square",
+        "Jackhammer",
+        "Ladder",
+        "Measure Tape",
+        "Pickaxe",
+        "Pipe Wrench",
+        "Pliers",
+        "Pocket Knife",
+        "Saw",
+        "Screwdriver",
+        "Shovel",
+        "Soldering Iron",
+        "Welding Machine",
+        "Wire Cutter",
+        "Wood Plane"
+      ],
+      "Larynx": [
+        "Larynx"
+      ],
+      "Measuring Devices": [
+        "Balancing Scale",
+        "Heavy Luggage Balance",
+        "Measuring Balance",
+        "Spring Balance",
+        "Digital Balance",
+        "Gold Precision Balance"
+      ],
+      "Medical Equipment": [
+        "Bandage Roll",
+        "Capsule",
+        "Mask",
+        "Otoscope",
+        "Oximeter",
+        "Oxygen Cylinder",
+        "Sphygmomanometer",
+        "Wheel Chair",
+        "X Ray Image Viewer",
+        "Stethoscope"
+      ],
+      "Molecular Structure": [
+        "Benzene",
+        "Carbon Dioxide Molecule",
+        "Water Molecule"
+      ],
+      "Monuments and Buildings": [
+        "Eiffel Tower",
+        "Pisa Tower",
+        "Statue of Liberty",
+        "Taj Mahal",
+        "Chichen Itza",
+        "Christ The Redeemer",
+        "Colosseum",
+        "Great Wall of China",
+        "Machu Picchu",
+        "Petra"
+      ],
+      "Parts of Engine": [
+        "Cam Shaft",
+        "Carburetor",
+        "Crank Shaft",
+        "Engine Block",
+        "Engine Head",
+        "Exhaust Valve",
+        "Flywheel",
+        "Gasket",
+        "Manifold",
+        "Spark Plug",
+        "Turbo"
+      ],
+      "Physics Lab Equipment": [
+        "Analog Ammeter",
+        "Battery",
+        "Capacitor",
+        "Daniel Cell",
+        "Digital Ammeter",
+        "Diode",
+        "Galvanometer",
+        "Glass Slab",
+        "Helical Spring",
+        "Inductor",
+        "Magnifying Glass",
+        "Multimeter",
+        "Newton's Cradle",
+        "One Way Key",
+        "Optical Bench",
+        "Pendulum Bob",
+        "Potentiometer",
+        "Resistor",
+        "Rheostat",
+        "Simple Pendulum",
+        "Sonometer",
+        "Spherometer",
+        "Tesla Coil",
+        "Vernier Caliper",
+        "Voltmeter"
+      ],
+      "Power Devices": [
+        "Generator",
+        "Inverter"
+      ],
+      "Satellite": [
+        "Satellite",
+        "Satellite Comms",
+        "Satellite Dish"
+      ],
+      "School Supplements": [
+        "Calculator",
+        "Compass",
+        "Crayons",
+        "Globe",
+        "Ruler",
+        "Scientific Calculator",
+        "Stapler"
+      ],
+      "Spinal Column": [
+        "Spinal Column"
+      ],
+      "Sports Equipment": [
+        "Badminton",
+        "Base Ball",
+        "Basket Ball",
+        "Cricket",
+        "Golf",
+        "Hockey",
+        "Table Tennis",
+        "Tennis",
+        "Volley Ball"
+      ],
+      "Storage Device": [
+        "Floppy Disk",
+        "Hard Disk",
+        "Memory Card",
+        "Pen Drive",
+        "Processor",
+        "USB Flash Drive",
+        "VHS"
+      ],
+      "Telescope": [
+        "Telescope",
+        "Hubble Space Telescope"
+      ],
+      "Thyroid": [
+        "Thyroid"
+      ],
+      "Type of Cars": [
+        "Sedan",
+        "SUV",
+        "Ambulance"
+      ],
+      "Type of Minerals": [
+        "Argonite",
+        "Calcite",
+        "Fluorite",
+        "Malachite"
+      ]
+    }
+  },
+  "1": {
+    "EVS": {
+      "Climbers": [
+        "Money Plant"
+      ],
+      "Clothes": [
+        "Cotton Dress",
+        "Woolen Dress"
+      ],
+      "Clothes and Work": [
+        "Children Uniform",
+        "Moto Mechanic",
+        "Soldier"
+      ],
+      "Cloths and Seasons": [
+        "Rainy Season"
+      ],
+      "Counting Objects": [
+        "Counting One",
+        "Counting Two",
+        "Counting Three",
+        "Counting Four",
+        "Counting Five",
+        "Counting Six",
+        "Counting Seven",
+        "Counting Eight",
+        "Counting Nine"
+      ],
+      "Creepers": [
+        "Pumpkin Plant",
+        "Strawberry Plant",
+        "Watermelon Plant",
+        "Bean Plant",
+        "Grape Plant",
+        "Bitter Gourd Plant"
+      ],
+      "Fitness": [
+        "Exercise",
+        "Playing",
+        "Rest",
+        "Sleep"
+      ],
+      "Fixed Plants": [
+        "Lotus"
+      ],
+      "Food Containing Vitamins": [
+        "Almonds"
+      ],
+      "Good Habits": [
+        "Bathing",
+        "Brushing the Teeth",
+        "Combing Hair",
+        "Eating Healthy Food",
+        "Studying",
+        "Taking Bath",
+        "Trimming Nails",
+        "Wake up Early",
+        "Washing Hands"
+      ],
+      "Healthy Food": [
+        "Healthy Food"
+      ],
+      "House Provides us Shelter": [
+        "Heat",
+        "Stray Animals",
+        "Wild Animals"
+      ],
+      "Human Senses": [
+        "Sense of Feeling",
+        "Sense of Hearing",
+        "Sense of Seeing",
+        "Sense of Smelling",
+        "Sense of Tasting"
+      ],
+      "Importance of Food": [
+        "Energy",
+        "Growth"
+      ],
+      "Junk Foods": [
+        "Cake",
+        "Chips",
+        "Fries",
+        "Pizza"
+      ],
+      "Learning New Things in School": [
+        "Dancing",
+        "Playing",
+        "Reading",
+        "Singing",
+        "Studying",
+        "Writing"
+      ],
+      "Meals": [
+        "Breakfast",
+        "Brunch",
+        "Dinner",
+        "Lunch"
+      ],
+      "My Neighborhood": [
+        "Fire Station",
+        "Police Station",
+        "Supermarket"
+      ],
+      "Myself": [
+        "Age and Class",
+        "City",
+        "Name",
+        "School"
+      ],
+      "Parts of Plant": [
+        "Parts of Plant"
+      ],
+      "People at Work": [
+        "Carpenter",
+        "Fire Man",
+        "Nurse",
+        "Postman",
+        "Potter",
+        "Tailor",
+        "Teacher",
+        "Vegetable Seller",
+        "Vendor"
+      ],
+      "Properties of Air": [
+        "Balloon",
+        "Fire"
+      ],
+      "Qualities of a Good House": [
+        "Dustbin inside the house",
+        "Neat and Clean",
+        "Plants Around the House"
+      ],
+      "Roofs of House": [
+        "Flat Roof",
+        "Slopping Roof"
+      ],
+      "Safety at Home": [
+        "Climbing Stairs",
+        "Electrical Appliances",
+        "Playing with Matchstick",
+        "Playing with Sharp Object"
+      ],
+      "Shrubs": [
+        "Bougainvillea plant",
+        "Hibiscus Plant",
+        "Jasmine Plant",
+        "Lilac",
+        "Rose Plant",
+        "Sunflower Plant"
+      ],
+      "Silk": [
+        "Mulberry plant",
+        "Silk Cloth"
+      ],
+      "Special Vehicles": [
+        "Crane",
+        "Fire Engine",
+        "Mail Van",
+        "Police Car",
+        "Road Roller"
+      ],
+      "Types of Houses": [
+        "Apartment",
+        "Bamboo House",
+        "Brick House",
+        "Bungalow",
+        "Components of Kutcha House",
+        "Components of Pucca House",
+        "House Boat",
+        "Mud House",
+        "Multi Storeyed",
+        "Single Storeyed",
+        "Tent",
+        "Wooden House"
+      ],
+      "Uniforms": [
+        "Business Man",
+        "Chef",
+        "Nurse",
+        "Soldier",
+        "Worker"
+      ],
+      "Uses of Water": [
+        "Bathing",
+        "Cooking",
+        "Drinking",
+        "Washing Hands"
+      ],
+      "Wind Can Move Things": [
+        "Bird",
+        "Parachute"
+      ]
+    },
+    "GK": {
+      "Costumes": [
+        "Bharatanatyam",
+        "Kathakali"
+      ],
+      "Seasons": [
+        "Autumn",
+        "Monsoon",
+        "Spring",
+        "Summer",
+        "Winter",
+        "Rainy Season"
+      ],
+      "Sources of Water": [
+        "Lake",
+        "Stepwell",
+        "Rain",
+        "Sea"
+      ]
+    },
+    "Maths": {
+      "Counting From 20 to 50": [
+        "Numbers from 20 to 30",
+        "Numbers From 30 to 40",
+        "Numbers From  40 to 50",
+        "Twenty One",
+        "Twenty Two",
+        "Twenty Three",
+        "Twenty Four",
+        "Twenty Five",
+        "Twenty Six",
+        "Twenty Seven",
+        "Twenty Eight",
+        "Twenty Nine",
+        "Thirty",
+        "Thirty One",
+        "Thirty Two",
+        "Thirty Three",
+        "Thirty Four",
+        "Thirty Five",
+        "Thirty Six",
+        "Thirty Seven",
+        "Thirty Eight",
+        "Thirty Nine",
+        "Forty",
+        "Forty One",
+        "Forty Two",
+        "Forty Three",
+        "Forty Four",
+        "Forty Five",
+        "Forty Six",
+        "Forty Seven",
+        "Forty Eight",
+        "Forty Nine",
+        "Missing Number"
+      ],
+      "Heaviest Lightest": [
+        "Heaviest",
+        "Lightest"
+      ],
+      "Thickest Thinnest": [
+        "Thickest",
+        "Thinnest"
+      ]
+    }
+  },
+  "2": {
+    "EVS": {
+      "Air We Breathe": [
+        "Air We Breathe"
+      ],
+      "Animals Active at Night": [
+        "Bat",
+        "Wolf",
+        "Owl"
+      ],
+      "Bad Habits": [
+        "Eating Junk Food",
+        "Fighting",
+        "Junk Food",
+        "Littering",
+        "Lying on Sofa",
+        "Sneeze Without Cover",
+        "Watching TV"
+      ],
+      "Characteristics of Air": [
+        "Air Fill Things",
+        "Air Fill Things 2",
+        "Air is Present Every Where"
+      ],
+      "External Organs": [
+        "Body Parts",
+        "Major organs in the Head"
+      ],
+      "First Aid": [
+        "Adhesive Bandage",
+        "First Aid Box",
+        "Gauze Roll",
+        "Medical Tape"
+      ],
+      "Flowers Bloom at Night": [
+        "Cactus Flower",
+        "Datura",
+        "Tuberose"
+      ],
+      "Growing up": [
+        "Crawling",
+        "Sitting",
+        "Walking"
+      ],
+      "Landforms": [
+        "Forest",
+        "Highlands",
+        "Hills",
+        "Island",
+        "Mountain",
+        "Plain",
+        "Plateau",
+        "valley"
+      ],
+      "Means of Transport": [
+        "Autorickshaw",
+        "Bike",
+        "Blimp",
+        "Bullock Cart",
+        "Bus",
+        "Catamaran",
+        "Helicopter",
+        "Hot Balloon",
+        "Row Boat",
+        "Scooter",
+        "Ship",
+        "Speed Boat",
+        "Submarine"
+      ],
+      "Metals": [
+        "Gold(JEWELLERY)",
+        "Iron Knife",
+        "Silver Ornament",
+        "Utensils"
+      ],
+      "Natural Things": [
+        "Leather",
+        "Rubber",
+        "Wood"
+      ],
+      "Safety at Playground": [
+        "Adult Supervision",
+        "Moving Swing 1",
+        "Moving Swing 2",
+        "Slide",
+        "Thorny Bushes and Barbed Wire"
+      ],
+      "Safety on Road": [
+        "Green Man Signal",
+        "Green Signal",
+        "Red Man Signal",
+        "Red Signal",
+        "Slow Sign Board",
+        "Yellow Signal",
+        "Zebra Crossing"
+      ],
+      "Sense Organs": [
+        "Ear",
+        "Eyes",
+        "Nose",
+        "Skin",
+        "Tongue"
+      ],
+      "Spices": [
+        "Bay Leaf",
+        "Cardamom",
+        "Pepper"
+      ],
+      "Wheels": [
+        "Truck",
+        "Wheel",
+        "Wheel Cart"
+      ],
+      "Wood": [
+        "Chair",
+        "Pencil",
+        "Table",
+        "Wooden Bench"
+      ],
+      "Worship Places": [
+        "Church",
+        "Gurudwara",
+        "Mosque",
+        "Temple"
+      ]
+    },
+    "Maths": {
+      "Counting in Groups": [
+        "2 Groups of 12 Oranges",
+        "2 Groups of 6 Apples",
+        "Pair"
+      ],
+      "Pattern": [
+        "Arrow Pattern",
+        "Boundary Wall Pattern",
+        "Number Pattern",
+        "Odd Number",
+        "Tiles",
+        "Window Pattern"
+      ],
+      "Place Value Chart and Expanded form of 2 Digit": [
+        "Comparing Numbers",
+        "Expanded Form",
+        "Place Value Chart"
+      ]
+    }
+  },
+  "3": {
+    "EVS": {
+      "Air Pollution": [
+        "Burning Coal",
+        "Dark Fumes from Industrial Chimneys"
+      ],
+      "Amphibians": [
+        "Frog",
+        "Newt"
+      ],
+      "Animals Chew food": [
+        "Buffalo",
+        "Cow",
+        "Giraffe"
+      ],
+      "Animals in Ocean": [
+        "Crab",
+        "Shark",
+        "Whale",
+        "Dolphin",
+        "Fish"
+      ],
+      "Animals in Polar Region": [
+        "Polar Bear",
+        "Penguin",
+        "Seal"
+      ],
+      "Animals Nibble Food": [
+        "Mouse",
+        "Rabbit"
+      ],
+      "Animals Suck Food": [
+        "Butterfly"
+      ],
+      "Animals Swallow Food": [
+        "Birds",
+        "Frog",
+        "Lizard"
+      ],
+      "Animals Tear,Grind and Chew food": [
+        "Tiger",
+        "Lion and Den"
+      ],
+      "Animals with Ear that Can't be Seen": [
+        "Alligator",
+        "Crocodile",
+        "Gecko",
+        "Lizard"
+      ],
+      "Artificial Sources of Light": [
+        "Candle",
+        "Hanging Lamp",
+        "Lantern",
+        "LED Bulb",
+        "Torch"
+      ],
+      "Bird Food": [
+        "Dead Animals",
+        "Insects",
+        "Vulture"
+      ],
+      "Birds Fly at Great Height": [
+        "Eagle"
+      ],
+      "Birds Fly at Short Height": [
+        "Jungle Fowl",
+        "Pigeon"
+      ],
+      "Birds that Cannot Fly": [
+        "Cassowary",
+        "Kiwi",
+        "Ostrich",
+        "Penguin"
+      ],
+      "Birds that Fly at Lower Heights": [
+        "Crow",
+        "Parrot",
+        "Pigeon"
+      ],
+      "Buildings in Neighbourhood": [
+        "Bank",
+        "Cinema Hall",
+        "Hotel",
+        "Hospital",
+        "Petrol Pump",
+        "Post Office",
+        "Supermarket"
+      ],
+      "Care for Plants": [
+        "Planting",
+        "Sunlight",
+        "Watering",
+        "Watering Plants"
+      ],
+      "Deciduous Trees": [
+        "Oak Tree",
+        "Teak Tree"
+      ],
+      "Edible Parts": [
+        "Edible Flowers",
+        "Edible Fruits",
+        "Edible Leaves",
+        "Edible Roots"
+      ],
+      "Electrical Energy": [
+        "Bread Toaster",
+        "Bulb",
+        "Induction Cooker",
+        "Iron Box",
+        "Laptop",
+        "Mixer Grinder",
+        "Oven",
+        "Television",
+        "Washing Machine"
+      ],
+      "Energy": [
+        "Dancing",
+        "Running",
+        "Working"
+      ],
+      "Energy Giving Food": [
+        "Grains,Breads,Cereals and Potatoes-Carbohydrates"
+      ],
+      "Farming": [
+        "Step Farming"
+      ],
+      "Features of Land Animals": [
+        "Sharp Teeth of Lion",
+        "Snake Crawling on the Groud"
+      ],
+      "Flightless Birds": [
+        "Emu",
+        "Ostrich",
+        "Penguin",
+        "Kiwi"
+      ],
+      "Food Containing Carbohydrates": [
+        "Bread",
+        "Grain,Breads,Cereals and Potatoes"
+      ],
+      "Food Containing Fat": [
+        "Butter",
+        "Chicken",
+        "Sunflower Oil",
+        "Walnuts",
+        "Dried Fruits"
+      ],
+      "Food from Animals": [
+        "Eggs",
+        "Fish",
+        "Honey",
+        "Meat",
+        "Milk"
+      ],
+      "Food From Different Part of a Plant": [
+        "Flowers",
+        "Leaves",
+        "Root",
+        "Stem"
+      ],
+      "Food From Plants": [
+        "Corn",
+        "Ginger"
+      ],
+      "Food We Eat- Stem": [
+        "Ginger"
+      ],
+      "Food We Eat-Flower": [
+        "Broccoli"
+      ],
+      "Food We Eat-Grains": [
+        "Bajra",
+        "Bengal Gram"
+      ],
+      "Food we Eat-Leaves": [
+        "Lettuce",
+        "Spinach"
+      ],
+      "Food We Eat-Nuts": [
+        "Cashew Nut",
+        "Hazel Nut",
+        "Pistachios"
+      ],
+      "Food We Eat-Oil Seeds": [
+        "Castoroil Seed",
+        "Sesame",
+        "Sunflower Seed"
+      ],
+      "Food We Eat-Roots": [
+        "Carrot",
+        "Turnip"
+      ],
+      "Forces": [
+        "Boy Catching Ball",
+        "Friction Compass",
+        "Friction Sliding",
+        "Magnetic Force",
+        "Muscular Force",
+        "Push and Pull"
+      ],
+      "Forms of Rock": [
+        "Aqua Marine Crystal Rock",
+        "Limonite Rock",
+        "Maalavya Lava Rock",
+        "Marble",
+        "Quartzite Rock"
+      ],
+      "Fuel For Cooking": [
+        "Electricity",
+        "Gas",
+        "Kerosene",
+        "Wood Fuel"
+      ],
+      "Healthy Food Pyramid": [
+        "Healthy Food Pyramid"
+      ],
+      "Herbs": [
+        "Mint",
+        "Tulsi"
+      ],
+      "Indoor Games": [
+        "Cards",
+        "Carroms",
+        "Chess",
+        "Ludo",
+        "Snake and Ladder"
+      ],
+      "Insects": [
+        "Ant",
+        "Butterfly",
+        "Ladybug",
+        "Bee"
+      ],
+      "Internal Organs": [
+        "Bones and Muscles",
+        "Heart",
+        "Stomach"
+      ],
+      "Journey of a Letter": [
+        "Letter Box",
+        "Mail",
+        "Paper and Pen",
+        "Post Office Letter Journey",
+        "Stamp Letter Journey"
+      ],
+      "Leaf": [
+        "Colour",
+        "Leaf Texture",
+        "Leaves With Smell",
+        "Margins"
+      ],
+      "Leaf Texture": [
+        "Leaf Texture"
+      ],
+      "Leaves With Colour": [
+        "Neem Leaf",
+        "Rose Leaf",
+        "Rubber Plant",
+        "Sunflower Leaf",
+        "Caladium Leaves",
+        "Coleus Leaves",
+        "Croton Leaves"
+      ],
+      "Leaves with Smell": [
+        "Curry Leaves",
+        "Mint",
+        "Tulsi Leaves"
+      ],
+      "Living Things Can Move": [
+        "Climbing Trees",
+        "Flying Bird",
+        "Hippopotamus Walking"
+      ],
+      "Living Things Reproduce": [
+        "Mother and Baby"
+      ],
+      "Living Things to Grow": [
+        "Human Growth Cycle",
+        "Plant Growth Cycle"
+      ],
+      "Luminous Objects": [
+        "Fire Flies",
+        "Glow Worm",
+        "Sun",
+        "Candle"
+      ],
+      "Manmade Things": [
+        "Bench",
+        "Board",
+        "Table",
+        "Chair"
+      ],
+      "Medicinal Plants": [
+        "Aloe Vera",
+        "Amla",
+        "Tulsi",
+        "Turmeric"
+      ],
+      "Metamorphic Rocks": [
+        "Marble",
+        "Quartzite Rock"
+      ],
+      "Minerals": [
+        "Minerals"
+      ],
+      "Natural Forces": [
+        "Magnetic Force",
+        "Muscular Force"
+      ],
+      "Nests are Made of": [
+        "Leaves",
+        "Straw",
+        "Twigs"
+      ],
+      "Non-Living Things": [
+        "Bottles",
+        "Car",
+        "Table Fan"
+      ],
+      "Omnivores": [
+        "Bear",
+        "Fox"
+      ],
+      "Our Environment": [
+        "Acid Rain",
+        "Deforestation"
+      ],
+      "Outdoor Games": [
+        "Hop Scotch",
+        "Kites Flying",
+        "Marbles Game",
+        "Seven Tiles"
+      ],
+      "Phases of Moon": [
+        "Phases of Moon 1",
+        "Phases of Moon 2"
+      ],
+      "Plants are Living Things": [
+        "Movement of Plant",
+        "Touch Me Not"
+      ],
+      "Plants From Far Away": [
+        "Coriander",
+        "Potatoes"
+      ],
+      "Plants Grow on Coastal Areas": [
+        "Coconut Tree",
+        "Palm Tree"
+      ],
+      "Plants Grow on Marshy Lands": [
+        "Mangrove"
+      ],
+      "Plants Grow on Plains": [
+        "Banyan Tree",
+        "Mango Tree",
+        "Neem Plant"
+      ],
+      "Postcard": [
+        "Address",
+        "Stamp",
+        "Writing Postcard"
+      ],
+      "Pot Making": [
+        "Clay Pit",
+        "Pots",
+        "Trowel"
+      ],
+      "Protective Food": [
+        "Beans"
+      ],
+      "Sedimentary Rocks": [
+        "Limestone"
+      ],
+      "Shadow": [
+        "Shadow"
+      ],
+      "Soil": [
+        "Red Soil",
+        "Silt Soil"
+      ],
+      "Telephone Types": [
+        "Cordless Phone",
+        "Mobile Phone",
+        "Push Button Telephones",
+        "Rotary Dial",
+        "Smart Phone",
+        "Walkie Talkie"
+      ],
+      "Tools They Use": [
+        "Blackboard and Chalk",
+        "Stethoscope",
+        "Stitching Machine"
+      ],
+      "Trees": [
+        "Apple Tree",
+        "Mango Tree",
+        "Banyan Tree",
+        "Palm Tree",
+        "Coconut Tree"
+      ],
+      "Types of Beak": [
+        "Crane",
+        "Eagle",
+        "Parrot"
+      ],
+      "Uses of Leaves": [
+        "Leaves as Plate",
+        "Palm leaves(Thaliyola)"
+      ],
+      "Water Pollution": [
+        "Pesticides",
+        "Sewage Water"
+      ]
+    },
+    "Maths": {
+      "Different Perspectives of an Object": [
+        "Cutting or Slicing",
+        "Different Angles",
+        "Shadow"
+      ],
+      "Types of Weighing Balance": [
+        "Bottle",
+        "Chair",
+        "Heavy Luggage Balance",
+        "Measuring Balance",
+        "Spring Balance",
+        "Digital Balance",
+        "Gold Precision Balance"
+      ]
+    }
+  },
+  "4": {
+    "EVS": {
+      "Adaptation for Protection": [
+        "Chameleon",
+        "Elephant Herd",
+        "Sea Turtles",
+        "Snail"
+      ],
+      "Air,Water and Weather": [
+        "Atmosphere",
+        "Reasons that Cause Wind"
+      ],
+      "Alternatives of Fossil Fuels": [
+        "Solar Power Plant",
+        "Windmill"
+      ],
+      "Arboreal Animals": [
+        "Flying Squirrel",
+        "Monkey",
+        "Sloth"
+      ],
+      "Calendar": [
+        "Calendar",
+        "Months"
+      ],
+      "Carbohydrates": [
+        "Energy Giving Food",
+        "Rice",
+        "Sugar"
+      ],
+      "Care for Teeth": [
+        "Brushing",
+        "Dental Treatment"
+      ],
+      "Cooking of Food": [
+        "Baking",
+        "Boiling",
+        "Frying",
+        "Roasting",
+        "Steaming"
+      ],
+      "Damages in Tooth": [
+        "Cavity",
+        "Plaque"
+      ],
+      "Digestion": [
+        "Food Through Oesophagus",
+        "Ingestion",
+        "Intestine",
+        "Liver",
+        "Salivary Glands"
+      ],
+      "Environment": [
+        "3R (Reduce,Reuse,Recycle)",
+        "Biodegradable",
+        "Land Pollution",
+        "Non Biodegradable",
+        "Water Pollution"
+      ],
+      "Floating Plants": [
+        "Duck Weed",
+        "Water Hyacinth",
+        "Water Lettuce",
+        "Water Lily",
+        "Lotus"
+      ],
+      "Forms of Water": [
+        "Dew",
+        "Forms of  Water",
+        "Hailstone",
+        "Rain"
+      ],
+      "Going To School": [
+        "Camel Cart",
+        "Cement Bridge",
+        "Jugad Cart",
+        "Trolley",
+        "Walking",
+        "Walking through the Forest"
+      ],
+      "Heat Energy": [
+        "Conversion of Electrical Energy into Heat Energy",
+        "Heat Engine"
+      ],
+      "Insectivorous Plants": [
+        "Pitcher Plant",
+        "Venus Fly Trap"
+      ],
+      "Matter Molecular Arrangement": [
+        "Gas",
+        "Liquid",
+        "Solid",
+        "Gaseous",
+        "Liquid Gas Solution",
+        "Liquid Liquid Solution",
+        "Salt in Water"
+      ],
+      "Microbes": [
+        "Escherichia Bacteria",
+        "Germs",
+        "Microscope",
+        "Protozoa",
+        "Virus"
+      ],
+      "Molecular Arrangement": [
+        "Gas",
+        "Liquid",
+        "Solid"
+      ],
+      "Mountain Regions": [
+        "Fir Tree",
+        "Hard Cone",
+        "Snow Leopard"
+      ],
+      "Parasites": [
+        "Flea",
+        "Leech",
+        "Tape Worm"
+      ],
+      "Parasitic Plants": [
+        "Cuscuta",
+        "Rafflesia"
+      ],
+      "Plants Grow on Desert": [
+        "Acacia",
+        "Cactus",
+        "Prickly Pear",
+        "Camel"
+      ],
+      "Plants Grow on Hilly Area": [
+        "Cedar",
+        "Cypress",
+        "Needle Leaves",
+        "Pine Tree",
+        "Spruce Tree"
+      ],
+      "Reproduction in Animals": [
+        "Life Cycle of Cockroach Part-1",
+        "Life Cycle of Cockroach Part-2",
+        "Life Cycle of Frog-1",
+        "Life Cycle of Frog-2",
+        "Life Cycle of Hen"
+      ],
+      "Scavengers": [
+        "Hyena",
+        "Jackal",
+        "Vulture"
+      ],
+      "Simple Machines": [
+        "Hammer",
+        "Pulley",
+        "Screw",
+        "Wheel and Axle"
+      ],
+      "Sources of Heat Energy": [
+        "Fire",
+        "LPG",
+        "Petrol",
+        "Sun"
+      ],
+      "Synthetic Fibres": [
+        "Brush",
+        "Tie"
+      ],
+      "Teeth": [
+        "Molar",
+        "Structure of Tooth",
+        "Teeth",
+        "Tooth Anatomy",
+        "Whole Teeth"
+      ],
+      "Train Journey": [
+        "Cart",
+        "Train Journey"
+      ],
+      "Types of Levers": [
+        "Bottle Opener",
+        "Ice Tongs",
+        "Piston",
+        "Plier",
+        "Scissors",
+        "Tweezer",
+        "Wheel Barrow"
+      ],
+      "Types of Root": [
+        "Breathing Roots",
+        "Root"
+      ],
+      "Types of Teeth": [
+        "Canine",
+        "Incisors",
+        "Premolar",
+        "Tooth"
+      ],
+      "Underwater Plants": [
+        "Hydrilla",
+        "Seaweed"
+      ],
+      "Uses of Metals": [
+        "Aeroplane",
+        "Cheetah"
+      ],
+      "Well Developed Legs of Animals": [
+        "Cheetah",
+        "Kangaroo"
+      ],
+      "Winter Clothes": [
+        "Jacket",
+        "Pullover Sweater",
+        "Winter Coat",
+        "Winter Gloves",
+        "Winter Jacket",
+        "Winter Scarves"
+      ]
+    },
+    "Maths": {
+      "3D Shapes": [
+        "Cone",
+        "Cuboid",
+        "Cylinder"
+      ],
+      "Capacity": [
+        "2 Five Hundred Milliliters make 1 Litre",
+        "Different Containers of 1 Litre",
+        "Ink Bottles and Milk Packet",
+        "Measuring Bottle",
+        "Quarter Litre"
+      ],
+      "Halves": [
+        "Halves 1",
+        "Halves 2",
+        "Halves 3",
+        "Halves 4"
+      ],
+      "Quarters": [
+        "Quarter 1",
+        "Quarter 2",
+        "Quarter 3"
+      ]
+    }
+  },
+  "5": {
+    "EVS": {
+      "Abiotic Components": [
+        "Rock",
+        "Soil"
+      ],
+      "Animal Movement": [
+        "Snake",
+        "Worm"
+      ],
+      "Complex Machines": [
+        "Bicycle",
+        "Car",
+        "Refrigerator"
+      ],
+      "Conservation of Soil": [
+        "Afforestation",
+        "Shelter Belts",
+        "Soil Cover"
+      ],
+      "Different Body Coverings": [
+        "Feathers Bird",
+        "Fish Scales",
+        "Fur",
+        "Hair (Lion)",
+        "Lizard Scales"
+      ],
+      "Food Chain": [
+        "Food Chain 1",
+        "Food Chain 2",
+        "Food Chain 3"
+      ],
+      "Importance of Soil": [
+        "Ant Nest",
+        "Dragon Shelter",
+        "Nutrition"
+      ],
+      "Lake,Pond,Stepwell": [
+        "Lake",
+        "Stepwell"
+      ],
+      "Moon": [
+        "Freezing",
+        "Landing on Moon",
+        "Lunar Eclipse",
+        "Moon",
+        "Moon Rotation"
+      ],
+      "Natural Resources": [
+        "Minerals"
+      ],
+      "Nervous System": [
+        "Nervous System",
+        "Spinal Chord",
+        "Taste Buds in Tongue"
+      ],
+      "Noise Pollution": [
+        "Fire Works"
+      ],
+      "Non-Biodegradable Waste": [
+        "Plastic Waste"
+      ],
+      "Phase Change": [
+        "Condensation"
+      ],
+      "Preservation of Food": [
+        "Deep Freezer",
+        "Dehydrated",
+        "Pickling"
+      ],
+      "Rainwater Harvesting": [
+        "Rainwater Harvesting"
+      ],
+      "Reproduction by Leaf": [
+        "Bryophyllum"
+      ],
+      "Reproduction by Root": [
+        "Sweet Potato"
+      ],
+      "Reproduction by Seed": [
+        "Plant Growth"
+      ],
+      "Reproduction by Spores": [
+        "Fern"
+      ],
+      "Reproduction by Stem": [
+        "Strawberry"
+      ],
+      "Rotation and Revolution of Earth": [
+        "Revolution of Earth",
+        "Rotation of Earth"
+      ],
+      "Seed Dispersal": [
+        "Seed Dispersal - Wind",
+        "Dispersal of Seed by Water",
+        "Seed Dispersal - Abiotic Agent",
+        "Seed Dispersal - Explosion"
+      ],
+      "Seed Germination": [
+        "Seed Germination"
+      ],
+      "Seeds": [
+        "Different Types of Seeds",
+        "Sprouting of Seeds"
+      ],
+      "Soil Formed From": [
+        "Dead Plants",
+        "Microorganisms"
+      ],
+      "Soil Pollution": [
+        "Garbage"
+      ],
+      "Sound": [
+        "Tuning Fork"
+      ],
+      "Storing of Water": [
+        "Dam"
+      ],
+      "Super Senses": [
+        "Ant Movement",
+        "Butterfly Senses Flower",
+        "Snakes Senses Vibrations"
+      ],
+      "The Earth": [
+        "North Pole,South Pole",
+        "Seismic Waves and Focus",
+        "Sedimentation"
+      ],
+      "Wealth From Rocks": [
+        "Buildings-Marbles",
+        "Cement",
+        "Coal for Electricity",
+        "Gemstone",
+        "Metals in Rocks",
+        "Roof Slate"
+      ],
+      "Kharif Crops": [
+        "Pulses"
+      ],
+      "Rabi Crops": [
+        "Wheat"
+      ],
+      "Water Sources": [
+        "Borewell",
+        "Tap Water",
+        "Well",
+        "Lake",
+        "Sea"
+      ]
+    },
+    "Maths": {
+      "Volume": [
+        "Volume"
+      ]
+    }
+  },
+  "6": {
+    "Maths": {
+      "Comparing Numbers": [
+        "Comparing Numbers"
+      ],
+      "Decimals": [
+        "Ascending Order",
+        "Descending Order"
+      ],
+      "Figure With Various Line of Symmetry": [
+        "Figures With Multiple Lines of Symmetry",
+        "Figures with One Line of Symmetry",
+        "Figures With Two Lines of Symmetry",
+        "Line of Symmetry"
+      ],
+      "Large Numbers in Practice": [
+        "Distance between House",
+        "Length of the Instrument Box",
+        "Length of the Whale Shark"
+      ],
+      "Operations on Fractions": [
+        "Addition of Fraction",
+        "Simplifying Fraction",
+        "Subtraction of Fraction"
+      ],
+      "Roman Numerals": [
+        "Roman Clock",
+        "Roman Numerals"
+      ]
+    },
+    "Science": {
+      "Attraction and Repulsion": [
+        "Attraction",
+        "Attraction and Repulsion",
+        "Repulsion"
+      ],
+      "Balanced Diet": [
+        "Dairy Products",
+        "Sprouted seed- Gram",
+        "Sprouted seed-Maize",
+        "Vegetables"
+      ],
+      "Beehive": [
+        "Beehive"
+      ],
+      "Biodegradable Waste": [
+        "Agricultural Waste",
+        "Animals",
+        "Mushroom",
+        "Tomato Plant"
+      ],
+      "Biotic Components": [
+        "Animals",
+        "Plant"
+      ],
+      "Components of Electric Circuit": [
+        "Battery",
+        "LED Diode",
+        "Resistor",
+        "Switch",
+        "Transistor"
+      ],
+      "Cotton": [
+        "Cotton",
+        "Ginning of Cotton",
+        "Mattress",
+        "Oil Lamp Wick",
+        "Pillow"
+      ],
+      "Dealing with Garbage": [
+        "Burning",
+        "Collection and Separation of Garbage",
+        "Dustbin in Municipalities"
+      ],
+      "Desert": [
+        "Cactus",
+        "Camel",
+        "Desert Animals in Burrows"
+      ],
+      "Effect of Magnet": [
+        "Paper Clip Hanging in Air"
+      ],
+      "Finding Directions": [
+        "Compass",
+        "Suspended Bar Magnet"
+      ],
+      "History of Magnets": [
+        "Discovery of Magnet"
+      ],
+      "Lustrous Materials": [
+        "Aluminium",
+        "Copper",
+        "Gold",
+        "Silver",
+        "Zinc"
+      ],
+      "Magnetic Materials": [
+        "Cobalt",
+        "Nickel"
+      ],
+      "Make your Magnet": [
+        "Pin Holder Magnet",
+        "Magnetizing Piece of Iron"
+      ],
+      "Non-Lustrous Materials": [
+        "Cardboard",
+        "Paper",
+        "Wood"
+      ],
+      "Parallel Venation and Fibrous Root": [
+        "Corn Plant with Root",
+        "Grass Plant with Root"
+      ],
+      "Plant Products": [
+        "Fruits",
+        "Spices",
+        "Vegetables",
+        "Maize",
+        "Soy Bean",
+        "Linseed",
+        "Mustard",
+        "peas"
+      ],
+      "Plants With Two or More Edible Parts": [
+        "Banana Plant"
+      ],
+      "Plastic-A Boon or Curse": [
+        "Minimizing the Over Use of Plastics",
+        "The Harmful Effect of Plastics",
+        "Uses of Plastic"
+      ],
+      "Poles of Magnet": [
+        "Poles of a Magnet"
+      ],
+      "Precautions for Using Magnets": [
+        "Dropping of Magnet",
+        "Hammering",
+        "Heating of Magnet",
+        "Storing Magnets Safely"
+      ],
+      "Recycling of Paper": [
+        "Patterns from Recycled Paper"
+      ],
+      "Reticulate Venation and Tap Root": [
+        "Rose Plant With Root"
+      ],
+      "Soft Materials": [
+        "Sponge"
+      ],
+      "Some Aquatic Animals": [
+        "Dolphin",
+        "Fish",
+        "Squid",
+        "Tortoise"
+      ],
+      "Sources of Carbohydrates": [
+        "Chappathi",
+        "Muskmelon",
+        "Peanut with Cover"
+      ],
+      "Sources of Fat": [
+        "Butter",
+        "Eggs",
+        "Sunflower Oil"
+      ],
+      "Sources of Protein": [
+        "Green Gram",
+        "Masoor Dal",
+        "pea",
+        "Rajma",
+        "Toor Dal"
+      ],
+      "Sources of Roughage": [
+        "Grains"
+      ],
+      "Sources of Vitamin C": [
+        "Green Chilies",
+        "Guava",
+        "Lemon"
+      ],
+      "Spinning of Cotton": [
+        "Charka",
+        "Hand Spindle"
+      ],
+      "Test for Nutrients": [
+        "Test for Fat",
+        "Test for Starch"
+      ],
+      "Think and Grow": [
+        "Variety of Things from Used Things"
+      ],
+      "Torch Bulb": [
+        "Torch Bulb",
+        "Torch bulb Inside"
+      ],
+      "Transparent and Opaque Objects": [
+        "Opaque Objects",
+        "Translucent Object",
+        "Transparent Object"
+      ],
+      "Type of Wastes": [
+        "Community Waste",
+        "Industrial Waste",
+        "Kitchen Waste"
+      ],
+      "Types of Habitat": [
+        "Desert",
+        "Pond"
+      ],
+      "Types of Joints": [
+        "Fixed Joint",
+        "Hinge Joint",
+        "Pivot joint"
+      ],
+      "Types of Magnet": [
+        "Ball Ended Magnet",
+        "Cylindrical Magnet",
+        "U Magnet"
+      ],
+      "Vermi Composting": [
+        "Vermi Composting"
+      ],
+      "Vermicomposting": [
+        "Redworms"
+      ],
+      "Vitamin A": [
+        "Mango",
+        "Papaya Fruit",
+        "Tubers"
+      ],
+      "Vitamin C": [
+        "Citrus Fruit",
+        "Guava",
+        "Lemon"
+      ],
+      "We Get Water From": [
+        "Borewell",
+        "Tap Water",
+        "Well",
+        "Canal",
+        "HandPump",
+        "Water Tanker"
+      ]
+    },
+    "Social Science": {
+      "Gram panchayat": [
+        "Gram panchayat",
+        "Functions of Gram Panchayat"
+      ],
+      "Army of the King": [
+        "Chariots",
+        "Elephants",
+        "Foot Soldiers"
+      ],
+      "Atmosphere": [
+        "Atmosphere",
+        "Barometer",
+        "Earth Atmosphere"
+      ],
+      "Biosphere": [
+        "Biosphere"
+      ],
+      "Buildings": [
+        "Iron Pillar",
+        "Rock Cave Temple",
+        "Stupa"
+      ],
+      "Day and Night": [
+        "Day and Night"
+      ],
+      "Directions": [
+        "Directions",
+        "Directions on the Map",
+        "Sides"
+      ],
+      "Diversity in Culture": [
+        "Arabian Culture",
+        "Indian Culture"
+      ],
+      "Diversity in Occupation": [
+        "Manager",
+        "Casual labourers",
+        "Permanent Laborer's"
+      ],
+      "In The Factory -Workshop Area": [
+        "Garment Shop",
+        "Sweet Shop",
+        "Toy Shop"
+      ],
+      "In the Market": [
+        "Garment Shop",
+        "Sweet Shop",
+        "Toy Shop"
+      ],
+      "Latitudes and Longitudes": [
+        "Latitudes and Longitudes"
+      ],
+      "Megaliths": [
+        "Megaliths"
+      ],
+      "Mountain Ranges": [
+        "Mountain Ranges"
+      ],
+      "Mountains": [
+        "Block Mountain",
+        "Fold Mountain",
+        "Glaciers"
+      ],
+      "Samudragupta": [
+        "Coins"
+      ],
+      "Weather Instruments": [
+        "Rain Gauge",
+        "Thermometer",
+        "Wind vane",
+        "Barometer"
+      ],
+      "Working on the Street": [
+        "Cobbler",
+        "Flower Stall",
+        "Newspaper and Magazine Stall",
+        "Snack Vendor",
+        "Trolley Puller",
+        "Vegetable and Fruit Vendor"
+      ]
+    }
+  },
+  "7": {
+    "Maths": {
+      "Faces, Edges and Vertices": [
+        "Cube",
+        "Rectangular Prism",
+        "Triangular Pyramid"
+      ],
+      "Multiplication and Division of Fractions": [
+        "Division of Fraction by Fraction",
+        "Division of Fraction by Whole",
+        "Multiplication of Fraction by Fraction",
+        "Multiplication of Fraction by Whole Number",
+        "Of Fraction"
+      ],
+      "Nets for Building 3D Shapes": [
+        "Nets of Cube",
+        "Nets of Cube 1"
+      ],
+      "Ratio": [
+        "Ratio of Boys to Girls",
+        "Ratio of Cost of Car to Bike",
+        "Ratio of Cow to Goat",
+        "Ratio of Flour and Milk"
+      ],
+      "Viewing Different Section of Solid": [
+        "Cutting or Slicing",
+        "Different Angles"
+      ],
+      "Visualizing Solid Objects": [
+        "Cube Magic 1",
+        "Cube Magic 2"
+      ]
+    },
+    "Science": {
+      "Absorption of Water by soil": [
+        "Absorption of Water by Soil"
+      ],
+      "Ancient Time Measuring Devices": [
+        "Sand Clock",
+        "Sundial"
+      ],
+      "Chemical Changes": [
+        "Chemical Changes"
+      ],
+      "Chemical Properties": [
+        "Rusting of Iron"
+      ],
+      "Climate": [
+        "The Hot and Dry Climate",
+        "Wet Climate"
+      ],
+      "Common Time Measuring Devices": [
+        "Digital Clock",
+        "Sand Clock",
+        "Table Clock",
+        "Wall Clock",
+        "Water Clock"
+      ],
+      "Depletion of Water Table": [
+        "Agricultural Activities",
+        "Increasing Industries",
+        "Increasing Population",
+        "Parks"
+      ],
+      "Do Plants also Respire": [
+        "Root",
+        "Stomata"
+      ],
+      "Examples of Concave Mirror": [
+        "Dentist's Mirror",
+        "Headlights in a Car",
+        "Shaving Mirror",
+        "Solar Heater"
+      ],
+      "Examples of Convex Mirror": [
+        "Sideview Mirror"
+      ],
+      "Grass Lands": [
+        "Deer"
+      ],
+      "Ground Water an Important Source": [
+        "Ground Water",
+        "Water Table"
+      ],
+      "Heating Effects of Electric Current": [
+        "Electric Bell",
+        "Electric Bulb",
+        "Electric Fuse",
+        "Electric Iron"
+      ],
+      "Human Heart": [
+        "Human Heart",
+        "Heart"
+      ],
+      "How much water is available": [
+        "Water Content in Earth"
+      ],
+      "Image Formation on Spherical Mirrors": [
+        "Real Image"
+      ],
+      "Image Formed by Concave Lens": [
+        "Image Formed by Concave Lens"
+      ],
+      "Image Formed by Concave Mirror": [
+        "At C",
+        "At F",
+        "At Infinity",
+        "Between C and F",
+        "Between P and F",
+        "Beyond C"
+      ],
+      "Image Formed by Convex Lens": [
+        "Image Formed by Convex Lens",
+        "Image Formed at Different Positions"
+      ],
+      "Image Formed by Convex Mirror": [
+        "Image Formed by Convex Mirror"
+      ],
+      "Image Formed by Lenses": [
+        "Concave Lens",
+        "Convex Lens",
+        "Magnifying Glass",
+        "The Real image formed of sun"
+      ],
+      "Light Travels along a Straight Line": [
+        "Path of Light"
+      ],
+      "Measurement of Speed": [
+        "Odometer",
+        "Speedometer"
+      ],
+      "Mechanism of Breathing": [
+        "Inspiration",
+        "Expiration"
+      ],
+      "Moisture in Soil": [
+        "Removing Moisture from the Soil"
+      ],
+      "Playing With Spherical Mirrors": [
+        "Concave Mirror",
+        "Convex Mirror",
+        "Image From the Inner Side of Spoon",
+        "Image From the Outer Side of a Spoon",
+        "Spherical Mirrors from Sphere"
+      ],
+      "Polar Adaptations": [
+        "Feet of Penguin",
+        "Musk",
+        "Polar Region",
+        "Reindeer",
+        "Seal"
+      ],
+      "Reflection of Light": [
+        "Locating Image on the Plane Mirror",
+        "Object and Image",
+        "Reflection"
+      ],
+      "Right or Left": [
+        "Ambulance",
+        "Image in a Plane Mirror",
+        "Reading Words in the Mirror"
+      ],
+      "Soil Profile": [
+        "Soil Profile"
+      ],
+      "Sunlight-White or Coloured": [
+        "Compact Disk",
+        "Disk with Seven Colours",
+        "Rainbow",
+        "Splitting of Light by Prism"
+      ],
+      "Tropical Rain Forests": [
+        "Indian Elephant",
+        "New World Monkey",
+        "Red Eyed Tree Frog",
+        "Toucan"
+      ],
+      "Types of Soil": [
+        "Clay Soil",
+        "Loamy Soil",
+        "Sandy Soil"
+      ],
+      "Water Cycle": [
+        "Water Cycle",
+        "Condensation",
+        "Evaporation",
+        "Precipitation"
+      ],
+      "Water Management": [
+        "Rainwater Harvesting Using Pit",
+        "Roof Top Rain Water Harvesting"
+      ],
+      "Weather": [
+        "Maximum and Minimum Thermometers"
+      ],
+      "What Do We Breathe Out": [
+        "What do we Breathe Out"
+      ]
+    },
+    "Social Science": {
+      "A Closer Look:Bengal": [
+        "Bengali Manuscript"
+      ],
+      "Chola Kingdom": [
+        "Bronze Sculptures"
+      ],
+      "Engineering Skills and Construction": [
+        "Trabeate and Arcuate Style"
+      ],
+      "Exogenic Forces": [
+        "River"
+      ],
+      "Fauna of Ladakh": [
+        "Apricot",
+        "Raven",
+        "Robin",
+        "Snowcock",
+        "Wild Goat"
+      ],
+      "Fewer Opportunities and Rigid Expectations": [
+        "Stereotype in Work"
+      ],
+      "Flora of Ladakh": [
+        "Poplar Tree",
+        "Willow Tree"
+      ],
+      "Garden, Forts and Tombs": [
+        "Chahar Baghs",
+        "Humayun's Tomb",
+        "Red Fort"
+      ],
+      "Growing up in Samoa in 1920s": [
+        "Cooking",
+        "Fishing",
+        "Looking after Younger Siblings",
+        "Work of Women"
+      ],
+      "How Nomads and Mobile People Lived": [
+        "Clothes",
+        "Ghee"
+      ],
+      "Igneous Rocks": [
+        "Basalt",
+        "Volcano"
+      ],
+      "Inside our earth": [
+        "Inside our earth"
+      ],
+      "Learning For Women": [
+        "No Education for Women",
+        "Working Women"
+      ],
+      "Life of Domestic Workers": [
+        "Domestic Help"
+      ],
+      "New Inventions": [
+        "Edibles",
+        "Guns",
+        "Spinning Wheel"
+      ],
+      "People in Sahara": [
+        "Nomadic Tribes"
+      ],
+      "Pirs and Temples": [
+        "Pirs and Temples"
+      ],
+      "Prashasti": [
+        "Prashasti"
+      ],
+      "Properties of Soil": [
+        "Percolation rate of Soil in water"
+      ],
+      "Rain Fall": [
+        "Convectional Rainfall",
+        "Cyclonic Rainfall",
+        "Relief Rainfall"
+      ],
+      "Region and Empire": [
+        "Fatehpur Sikri"
+      ],
+      "Rock Cycle": [
+        "Rock Cycle"
+      ],
+      "Structures": [
+        "Bazaars",
+        "Forts",
+        "Garden Residencies",
+        "Palaces",
+        "Tomb",
+        "Wells"
+      ],
+      "Tawa": [
+        "Dam"
+      ],
+      "The Cheras and Development of Malayalam": [
+        "Old Malayalam Inscription"
+      ],
+      "Tides and Currents": [
+        "Currents",
+        "Tides"
+      ],
+      "Transportation in Early Days": [
+        "Horse Cart",
+        "Wooden Cart"
+      ],
+      "Valuing Housework": [
+        "Housewife"
+      ],
+      "Water Cycle": [
+        "Water Cycle"
+      ],
+      "Wind": [
+        "Day Breeze",
+        "Night Breeze",
+        "Permanent Winds",
+        "Land Breeze",
+        "Sea Breeze"
+      ],
+      "Women's Work and Equality": [
+        "Creches"
+      ]
+    }
+  },
+  "8": {
+    "Maths": {
+      "Area of a Polygon": [
+        "Area of a Pentagon",
+        "Area of Hexagon"
+      ]
+    },
+    "Science": {
+      "Adding Manure and Fertilizer": [
+        "Fertilizer",
+        "Manuring"
+      ],
+      "Animal Migration": [
+        "Migration of Birds",
+        "Migration of Fishes",
+        "Migration of Monarch Butterfly"
+      ],
+      "Cell Number, Size and Shape": [
+        "Amoeba",
+        "RBC",
+        "Unicellular Paramecium"
+      ],
+      "Charging By Rubbing": [
+        "Balloon",
+        "Eraser",
+        "Metal Spoon",
+        "Refill"
+      ],
+      "Charging by Rubbing": [
+        "Charging by Rubbing"
+      ],
+      "Chemical Effect": [
+        "Passing Current through Salt Water",
+        "Passing Current Through Water",
+        "Testing Potato"
+      ],
+      "Coal": [
+        "Coal",
+        "Coal Tar",
+        "Coke"
+      ],
+      "Discovery of Cell": [
+        "Cork Cells"
+      ],
+      "Earthquake": [
+        "Tectonic Plates-Brushing Past",
+        "Tectonic Plates-Colliding"
+      ],
+      "Electroplating": [
+        "Electroplating Examples",
+        "Electroplating Experiment"
+      ],
+      "Electroscope": [
+        "Electroscope"
+      ],
+      "Exhaustible Resources": [
+        "Coal",
+        "Fuel"
+      ],
+      "Experiments with Sound": [
+        "Bell Jar Experiment"
+      ],
+      "Fault Zones in India": [
+        "Fault Zone"
+      ],
+      "Food Preservation": [
+        "Preservation of Food in Oil and Vinegar",
+        "Salting",
+        "Sweetening"
+      ],
+      "Friction": [
+        "Ball Bearing",
+        "Pushing",
+        "Wheel Movement"
+      ],
+      "Harmful Microorganisms in plants": [
+        "Citrus Canker",
+        "Rust of Wheat",
+        "Yellow Vein Mossaic"
+      ],
+      "Harvesting": [
+        "Combine",
+        "Sickle",
+        "Winnowing Machine"
+      ],
+      "How to Control Fire": [
+        "Fire Extinguisher"
+      ],
+      "Inexhaustible Resources": [
+        "Sun",
+        "Wind Energy"
+      ],
+      "Lightening Safety": [
+        "Buildings with Metal Polls",
+        "Closed Cars",
+        "Lightning Conductor",
+        "Umbrella"
+      ],
+      "Microorganisms": [
+        "Algae",
+        "Fungi",
+        "Protozoa",
+        "Virus"
+      ],
+      "Migration": [
+        "Arctic Tern",
+        "Eel",
+        "Monarch Butterfly"
+      ],
+      "Modes of Reproduction": [
+        "Butterfly Life Cycle -1",
+        "Butterfly Life Cycle-2"
+      ],
+      "Nitrogen Fixation": [
+        "Roots of Leguminous Plants"
+      ],
+      "Other Members of Solar System": [
+        "Asteroid",
+        "Comet",
+        "Meteor"
+      ],
+      "Plastics": [
+        "Thermoplastics",
+        "Thermosetting Plastics"
+      ],
+      "Preparation of Soil": [
+        "Cultivator",
+        "Hoe",
+        "Ploughing Preparation"
+      ],
+      "Production of Sound-Vibration": [
+        "Flute",
+        "Ghatam",
+        "Harmonium",
+        "Manjira",
+        "Sitar",
+        "Tabla"
+      ],
+      "Protection Against Earthquake": [
+        "At Home",
+        "Timber House"
+      ],
+      "Reaction With Metals": [
+        "Reaction With Metals (Conical Flask)"
+      ],
+      "Refining of Petroleum": [
+        "Refining of Petroleum"
+      ],
+      "Reflection": [
+        "Ray Incident at a Point",
+        "Ray Incident at Different Point"
+      ],
+      "Solar System": [
+        "Sun",
+        "Earth",
+        "Jupiter",
+        "Mars",
+        "Mercury",
+        "Neptune",
+        "Pluto",
+        "Saturn",
+        "Uranus",
+        "Venus",
+        "Solar System"
+      ],
+      "Sowing": [
+        "Seed Drill"
+      ],
+      "Storage of Grains": [
+        "Silo"
+      ],
+      "Structure of Cells": [
+        "Animal Cell",
+        "Plant Cell"
+      ],
+      "Structure of Flame": [
+        "Burning Candle"
+      ],
+      "The Constellation": [
+        "Cassiopeia",
+        "Great Bear",
+        "Hercules",
+        "Hydra",
+        "Pegasus",
+        "Saptarshi",
+        "Ursa Major",
+        "Ursa Minor"
+      ],
+      "Type of Charges and Interaction": [
+        "Interaction Between Like Charges",
+        "Like Charges Repel Each Other",
+        "Unlike Charges Attract Each Other"
+      ],
+      "Uses of Metals": [
+        "Airplane",
+        "Automobile",
+        "Machinery",
+        "Spoon and Fork",
+        "Train",
+        "Sound Speaker",
+        "Traffic on Roads"
+      ],
+      "Voice Box": [
+        "Voice Box",
+        "Larynx"
+      ]
+    },
+    "Social Science": {
+      "Agro Based Industries": [
+        "Cotton Mills"
+      ],
+      "Earthquake": [
+        "Earthquake",
+        "Seismograph"
+      ],
+      "Farm Outputs": [
+        "Dairy Products",
+        "Poultry Products",
+        "Wool"
+      ],
+      "Farming Inputs": [
+        "Machinery",
+        "Seeds"
+      ],
+      "Farming Operations": [
+        "Harvesting",
+        "Irrigation",
+        "Sowing",
+        "Weeding"
+      ],
+      "Ferrous Minerals": [
+        "Chromite"
+      ],
+      "How did Colonial Rule Affect Tribal lives": [
+        "Forest law",
+        "Search for Work",
+        "Tribal Chief"
+      ],
+      "How did Tribal Group live": [
+        "Settled Cultivation",
+        "Shifting Cultivation"
+      ],
+      "Large Scale Industries": [
+        "Factories"
+      ],
+      "Less Populated Land": [
+        "Rugged Topography",
+        "Steep Slope of Mountains",
+        "Waterlogging"
+      ],
+      "Marine Based Industries": [
+        "Fish Oil",
+        "Sea Food"
+      ],
+      "Metallic Minerals": [
+        "Bauxite",
+        "Iron ore",
+        "Manganese Ore"
+      ],
+      "Mineral Based Industries": [
+        "Building Materials",
+        "Heavy Machinery",
+        "Iron Ore"
+      ],
+      "Mixed Farming": [
+        "Mixed Farming"
+      ],
+      "Non Conventional Sources of Energy": [
+        "Nuclear Power Plant",
+        "Solar Power Plant",
+        "Windmill"
+      ],
+      "Non Ferrous Minerals": [
+        "Lead"
+      ],
+      "Non Metallic Minerals": [
+        "Gypsum",
+        "Mica"
+      ],
+      "Problems of Water Availability": [
+        "Change In Precipitation",
+        "Contamination",
+        "Over Exploitation"
+      ],
+      "Public Facilities": [
+        "Public Transport",
+        "Sanitation Facility"
+      ],
+      "Seismograph": [
+        "Seismograph"
+      ],
+      "Small Scale Industries": [
+        "Handicrafts"
+      ],
+      "Soil Conservation": [
+        "Contour Barriers",
+        "Contour Ploughing",
+        "Intercropping",
+        "Mulching",
+        "Rock Dam"
+      ],
+      "Subsistence Farming": [
+        "Subsistence Farming"
+      ],
+      "Sword of Tipu Sulthan": [
+        "Smelting Furnace",
+        "Wootz Steal"
+      ],
+      "Textile Industries": [
+        "Synthetic Fibres",
+        "Natural Fibers"
+      ],
+      "Textile Industry": [
+        "Silk Weaving"
+      ]
+    }
+  },
+  "9": {
+    "Maths": {
+      "Locate Irrational Numbers": [
+        "Locate Irrational Numbers"
+      ],
+      "Probability": [
+        "Throwing of Dice",
+        "Tossing of Coins"
+      ]
+    },
+    "Science": {
+      "Animal Tissues": [
+        "Bone Tissue",
+        "Cartilage",
+        "Neuron"
+      ],
+      "Applications of Archimedes Principle": [
+        "Floating Ship",
+        "Hydrometer",
+        "Lactometer"
+      ],
+      "Atom": [
+        "Atomic Mass",
+        "Atomic Radius"
+      ],
+      "Buoyancy": [
+        "Buoyancy"
+      ],
+      "Charged Particles in Matter": [
+        "Subatomic Particles"
+      ],
+      "Distillation and Fractional Distillation": [
+        "Fractional Distillation"
+      ],
+      "Echo and Reverberation": [
+        "Echo",
+        "Reverberation"
+      ],
+      "Free Fall": [
+        "Heavier and Lighter Objects"
+      ],
+      "Gravitation": [
+        "Motion of Object under Influence of Gravity",
+        "Throwing Ball"
+      ],
+      "Human Ear": [
+        "Ear",
+        "Human Ear"
+      ],
+      "Kinetic and Potential Energy": [
+        "Billiard Balls",
+        "Water Tank"
+      ],
+      "Kinetic Energy": [
+        "Billiard Balls"
+      ],
+      "Molecules": [
+        "Ions",
+        "Molecules of Compounds",
+        "Molecules of Elements"
+      ],
+      "Plant Tissues": [
+        "Collenchyma",
+        "Meristem",
+        "Parenchyma",
+        "Phloem",
+        "Sclerenchyma",
+        "Xylem"
+      ],
+      "Pressure Exerted in Fluids": [
+        "Pressure Excerted in Fluids"
+      ],
+      "Potential Energy": [
+        "Depressions",
+        "Moving Trolley",
+        "Moving Trolley with Increased Weight"
+      ],
+      "Production of Sound": [
+        "Tuning Fork and Tennis Ball",
+        "Vibrating Tuning Fork in Water"
+      ],
+      "Propagation of Sound": [
+        "Sound Waves"
+      ],
+      "Reflection of Sound": [
+        "Reflection of Sound Experiment"
+      ],
+      "Separation of Components of Air": [
+        "Separation of Components of Air"
+      ],
+      "Sinking and Floating of Objects": [
+        "Sinking and Floating of Objects"
+      ],
+      "Sound Waves": [
+        "Amplitude",
+        "Frequency",
+        "Longitudinal Waves in Slinky",
+        "Transverse Wave"
+      ],
+      "Thomson's Model of Atom": [
+        "Christmas pudding",
+        "Watermelon Model"
+      ],
+      "Universal Law of Gravitation": [
+        "Centripetal Force"
+      ],
+      "Water Purification": [
+        "Boiling",
+        "Filtration"
+      ],
+      "Water Purification System": [
+        "Water Purification System"
+      ],
+      "Work Done by a Constant Force": [
+        "Force in the Direction of Displacement",
+        "Force on an Object Moving with Uniform Velocity"
+      ]
+    },
+    "Social Science": {
+      "Climatic Controls": [
+        "Climatic Conditions"
+      ],
+      "Colonial Rule and Pastoral Life": [
+        "Grazing Land to Cultivation",
+        "Settlements",
+        "Taxes"
+      ],
+      "Food Security in India": [
+        "BufferStock",
+        "Fair Price Shop"
+      ],
+      "India's Neighbours": [
+        "India's Neighbours"
+      ],
+      "Judiciary": [
+        "Supreme Court"
+      ],
+      "Pastoral Nomads and their Movements": [
+        "In the Mountains",
+        "In the Plateau, Plains and Desserts"
+      ],
+      "Pastoralism in Africa": [
+        "Boundaries"
+      ],
+      "Plantation": [
+        "Cashew",
+        "Coffee",
+        "Tea Plantation"
+      ],
+      "Primary Sector": [
+        "Poultry Farming"
+      ],
+      "The Rise of Commercial Forestry": [
+        "Trading of Forest Produce"
+      ],
+      "Types of Vegetation": [
+        "Mangrove Forests",
+        "Montane Forests",
+        "The Thorn Forests and Scrubs",
+        "Tropical Deciduous Forest",
+        "Tropical Evergreen Forest"
+      ],
+      "What is our System of Election": [
+        "Election in India(Campaign)",
+        "Election in India(Election Commission)",
+        "Election in India(Marking)",
+        "Election in India(Voter Id)",
+        "Election in India(Voter List)",
+        "Election in India(Voting)"
+      ],
+      "Why Deforestation": [
+        "Fire Woods",
+        "Sleepers",
+        "Timber for Ships"
+      ]
+    }
+  },
+  "10": {
+    "Maths": {
+      "Conversion of Solid from One Shape to Another": [
+        "Conversion of Solid from One Shape to Another 1",
+        "Conversion of Solid from One Shape to Another 2"
+      ],
+      "Frustum of a Cone": [
+        "Frustum of a Cone 1",
+        "Frustum of a Cone 2"
+      ],
+      "Heights and Distance": [
+        "Heights and Distance 1",
+        "Heights and Distance 2",
+        "Heights and Distance 3",
+        "Heights and Distance 4",
+        "Heights and Distance 5",
+        "Altitude of Balloon",
+        "Height of the Building",
+        "Height of the Tower",
+        "Height of the Tree",
+        "Right Triangle"
+      ],
+      "Introduction to Trigonometry": [
+        "Right Triangle"
+      ],
+      "Volume of a Combination of Solids": [
+        "Volume of a Combination of Solids  2",
+        "Volume of a Combination of Solids 1"
+      ]
+    },
+    "Science": {
+      "Atmospheric Refraction": [
+        "Advanced Sunrise and Delayed Sunset",
+        "Apparent Depth",
+        "Twinkling of Stars"
+      ],
+      "Chemical Properties of Carbon Compounds": [
+        "Addition Reaction",
+        "Combustion",
+        "Oxidation"
+      ],
+      "Combination Reaction": [
+        "Combination Reaction"
+      ],
+      "Conventional Sources of Energy": [
+        "Biogas Plant",
+        "Fossil Fuels",
+        "Hydro Power Plant",
+        "Thermal Power Plant",
+        "Thermoelectric Production",
+        "Types of Coal",
+        "Wind Energy"
+      ],
+      "Corrosion": [
+        "Corrosion"
+      ],
+      "Defects of Vision and Correction": [
+        "Hypermetropia"
+      ],
+      "Dispersion of Light": [
+        "Formation of Rainbow",
+        "Recombination of Light"
+      ],
+      "Electric Generator": [
+        "AC Generator"
+      ],
+      "Electromagnetic Induction": [
+        "Electric Motor",
+        "Electromagnet",
+        "Moving Coil Experiment"
+      ],
+      "Energy from Sea": [
+        "Ocean Thermal Energy",
+        "Tidal Energy",
+        "Wave Energy"
+      ],
+      "Enrichment of Ores": [
+        "Gangue",
+        "Ores"
+      ],
+      "Factors Affecting Resistance": [
+        "Area of Cross Section",
+        "Length of a conductor"
+      ],
+      "Fleming's Left Hand Rule": [
+        "Fleming's Left Hand Rule"
+      ],
+      "Geothermal Energy": [
+        "Geothermal Power Plant",
+        "Hotsprings"
+      ],
+      "Human Biology": [
+        "Alimentary Canal Wall",
+        "Brain",
+        "Ear Cross Section",
+        "Eye Cross Section",
+        "Kidney Cross Section",
+        "Larynx",
+        "Skin Structure",
+        "Spinal Column",
+        "Anatomy of Large Intestine",
+        "Intestinal Villi",
+        "Large Intestine",
+        "Small Intestine",
+        "Small Intestine Cross Section"
+      ],
+      "Human Systems": [
+        "Digestive System",
+        "Excretory System",
+        "Muscular System",
+        "Respiratory System"
+      ],
+      "Image Formation by Concave Mirror": [
+        "Concave Mirror Image"
+      ],
+      "Laws of Chemical Combination": [
+        "Law of Conservation of Mass"
+      ],
+      "Magnetic Field due to a Current Carrying Conductor": [
+        "Magnetic Field around a Straight Conductor"
+      ],
+      "Magnetic Field Due to a Solenoid": [
+        "Magnetic Field Through a Circular Loop",
+        "Solenoid"
+      ],
+      "Nuclear Energy": [
+        "Chain Reaction",
+        "Nuclear Energy",
+        "Nuclear Fission",
+        "Nuclear Fusion"
+      ],
+      "Ohm's Law": [
+        "Ohm's Law"
+      ],
+      "Physical Properties of Metals": [
+        "Conductivity",
+        "Ductility",
+        "Heating and Melting Point",
+        "Malleability",
+        "Metallic Lustrous"
+      ],
+      "Properties of Ethanoic Acid": [
+        "Esterification",
+        "Reaction with Carbonates and Hydrogen Carbonates",
+        "Reaction with Sodium"
+      ],
+      "Properties of Ethanol": [
+        "Reaction With Sodium"
+      ],
+      "Properties of Ionic Compounds": [
+        "Conduction Of Electricity",
+        "Melting and Boiling Points",
+        "Solubility"
+      ],
+      "Reaction of Metal with Acids": [
+        "Reaction of Metal With Acids"
+      ],
+      "Reaction of Metal With Water": [
+        "Reaction of Metal with Water",
+        "Reaction of Metal With Water"
+      ],
+      "Reaction of Metals with Salt Solution": [
+        "Reaction of Metals with Salt Solution"
+      ],
+      "Reactivity of Metals and Non Metals": [
+        "Magnesium Chloride",
+        "Sodium Chloride"
+      ],
+      "Refraction": [
+        "Refraction Example",
+        "Refraction Laws (Optically Rarer)",
+        "Refraction Laws(Optically Denser)",
+        "Spherical Surface Refraction"
+      ],
+      "Sexual Reproduction in Plants": [
+        "Embryo Development",
+        "Fertilization",
+        "Parts of Flower",
+        "Post Fertilization",
+        "Section of Stamen"
+      ],
+      "Solar Energy": [
+        "Solar Cell",
+        "Solar Cell Working",
+        "Solar Cooker",
+        "Solar Panel"
+      ],
+      "Structure of Carbon Compounds": [
+        "Chains and Branches",
+        "Rings",
+        "Saturated Carbon Compounds",
+        "Unsaturated Carbon Compounds"
+      ],
+      "Transportation in Plants": [
+        "Transport of  Nutrients",
+        "Transport of Water 1",
+        "Transport of Water 2",
+        "Water Absorption"
+      ],
+      "When Metal Burnt in Air": [
+        "Copper",
+        "Copper Metal",
+        "Magnesium Metal",
+        "Sodium",
+        "Sodium Metal"
+      ]
+    },
+    "Social Science": {
+      "Before the Industrial Revolution": [
+        "Cotton Mills"
+      ],
+      "Classification of Soil": [
+        "Alluvial Soil",
+        "Arid Soil",
+        "Black Soil",
+        "Forest Soil",
+        "Laterite Soil"
+      ],
+      "Consumer in the Marketplace": [
+        "Consumer in the Market Place"
+      ],
+      "Consumer Movements": [
+        "Consumer Movements 1",
+        "Consumer Movements 2"
+      ],
+      "Factors that have Enabled Globalization": [
+        "IT and Communication",
+        "Technology"
+      ],
+      "Heavy and Light Industry": [
+        "Heavy Industry",
+        "Light Industry"
+      ],
+      "Impact of Globalization on Agriculture": [
+        "Tissue Culture",
+        "Food Processing",
+        "Vegetable Oil"
+      ],
+      "Industrialization in the Colonies": [
+        "Machine Goods",
+        "Weaving Loom"
+      ],
+      "Interlinking Production across Countries": [
+        "Investments"
+      ],
+      "Land Conservation": [
+        "Proper Waste Disposal"
+      ],
+      "Land Degradation": [
+        "Mining",
+        "Over-Grazing",
+        "Over-Irrigation"
+      ],
+      "Land Resources": [
+        "Communication System",
+        "Economic Activities",
+        "Transport",
+        "Vegetation",
+        "Wildlife"
+      ],
+      "Land Use Pattern in India": [
+        "Barren Land",
+        "Forest Land",
+        "Waste Land"
+      ],
+      "Loan Activities of Bank": [
+        "Loan and Bank"
+      ],
+      "Majoritarianism in Srilanka": [
+        "Protection of Buddhism",
+        "Sinhala"
+      ],
+      "Millets": [
+        "Jowar",
+        "Ragi"
+      ],
+      "Mode of Occurrence of Minerals": [
+        "Placer Deposits"
+      ],
+      "Money as Medium of Exchange": [
+        "Money as Medium of Exchange"
+      ],
+      "New Forums of Publication": [
+        "Caricature",
+        "Cartoon",
+        "Painting"
+      ],
+      "Parliament": [
+        "Parliament"
+      ],
+      "Pollution": [
+        "Noise Pollution"
+      ],
+      "Print Comes to Europe": [
+        "Printing Press by Guttenberg",
+        "Vellum"
+      ],
+      "Self Help Groups": [
+        "Self Help Groups"
+      ],
+      "Terms of Credit": [
+        "Collateral"
+      ],
+      "The First Printed Books": [
+        "Wood Block Printing on Cloth",
+        "Wood block Printing on Paper"
+      ],
+      "The Nineteenth Century": [
+        "Offset Press"
+      ],
+      "Water Recharge": [
+        "Recharge through Abandoned Well",
+        "Recharge Through Hand Pumb"
+      ],
+      "How can Parties be Reformed": [
+        "How can Parties  be Reformed"
+      ]
+    }
+  },
+  "11": {
+    "Biology": {
+      "Alimentary Canal": [
+        "Alimentary Canal",
+        "Alimentary Canal Wall"
+      ],
+      "Amphibia": [
+        "Bufo",
+        "Ichthyophis",
+        "Rana",
+        "Salamander"
+      ],
+      "Anatomy of Monocotyledons and Dicotyledons": [
+        "Leaf Anatomy of Dicot",
+        "Leaf Anatomy of Monocot",
+        "Leaf Morphology of Dicot",
+        "Leaf Morphology of Monocot",
+        "Root Anatomy of Dicot",
+        "Root Anatomy of Monocot",
+        "Root Morphology of Dicot",
+        "Root Morphology of Monocot",
+        "Stem Anatomy of Dicot",
+        "Stem Anatomy of Monocot",
+        "Stem Morphology of Dicot",
+        "Stem Morphology of Monocot"
+      ],
+      "Annelida": [
+        "Hirudinaria",
+        "Nereis",
+        "Pheretima"
+      ],
+      "Arthropoda": [
+        "Honeybee",
+        "Limulus",
+        "Locust",
+        "Mosquito",
+        "Prawn",
+        "Scorpion",
+        "Silkworm"
+      ],
+      "Aschelminthes": [
+        "Ancylostoma",
+        "Ascaris Lumbricoides",
+        "Wuchereria"
+      ],
+      "Asexual Reproduction": [
+        "Binary Fission",
+        "Budding",
+        "Fragmentation",
+        "Regeneration",
+        "Spore Formation"
+      ],
+      "Assimilation": [
+        "Assimilation"
+      ],
+      "Basis of Classification": [
+        "Diploblastic and Triploblastic Organizations",
+        "Levels of Organization",
+        "Notochord",
+        "Segmentation",
+        "Symmetry"
+      ],
+      "Blood": [
+        "Coagulation of Blood",
+        "Elements of Blood",
+        "Formed Elements",
+        "Plasma",
+        "Platelets"
+      ],
+      "Blood Clotting": [
+        "Blood Clotting",
+        "Blood Clotting 1"
+      ],
+      "Blood Groups": [
+        "Erythroblastosis Fetalis",
+        "RH Grouping"
+      ],
+      "Bryophytes-Mosses": [
+        "Life cycle of Moss",
+        "Mosses",
+        "Sphagnum"
+      ],
+      "Cell Organelles": [
+        "Centrosome and Centrioles",
+        "Cilia and Flagella",
+        "Cytoskeleton",
+        "Microbodies",
+        "Ribosome"
+      ],
+      "Chemiosmotic Hypothesis": [
+        "Chemiosmotic Hypothesis"
+      ],
+      "Chondrichthyes": [
+        "Carcharodon",
+        "Pristis",
+        "Scoliodon",
+        "Trygon"
+      ],
+      "Chordata": [
+        "Chordata Characteristics"
+      ],
+      "Cockroach": [
+        "Cockroach",
+        "Cockroach Circulatory System",
+        "Cockroach Digestive System",
+        "Cockroach Head Region 1",
+        "Cockroach Head Region 2",
+        "Cockroach Male Reproductive System",
+        "Cockroach Morphology",
+        "Female Reproductive System"
+      ],
+      "Ctenophora": [
+        "Ctenoplana",
+        "Pleurobrachia"
+      ],
+      "Cyclic and Non-Cyclic Photophosphorylation": [
+        "Cyclic Photophosphorylation",
+        "Non-Cyclic Photophosphorylation"
+      ],
+      "Dark Reaction": [
+        "Biosynthetic Phase"
+      ],
+      "Early Experiments": [
+        "Jan Ingenhousz Experiment",
+        "Julius Von Sach's Experiment",
+        "Priestley's experiment-1",
+        "Priestley's Experiments 2"
+      ],
+      "Echinodermata": [
+        "Antedon",
+        "Asterias",
+        "Cucumaria",
+        "Echinus",
+        "Ophiura"
+      ],
+      "Electron Transport": [
+        "Electron Transport Chain",
+        "Z-Scheme of Light Reaction"
+      ],
+      "Endomembrane System": [
+        "Endoplasmic Reticulum",
+        "Golgi Apparatus",
+        "Lysosomes",
+        "Vacuoles"
+      ],
+      "Eukaryotic Cell": [
+        "Cell Wall"
+      ],
+      "Exchange of Gases": [
+        "Alveolar Gas Exchange",
+        "Gas Exchange",
+        "Partial Pressure of Respiratory Gases"
+      ],
+      "Flowers Parts": [
+        "Actinomorphic and Zygomorphic",
+        "Bisexual Flower",
+        "Pentamerous",
+        "Tetramerous",
+        "Trimerous"
+      ],
+      "Gymnosperm Angiosperm Connection": [
+        "Morphology",
+        "Reproductive Structure",
+        "Seeds and Fruits"
+      ],
+      "Gymnosperms": [
+        "cycas",
+        "Gingko",
+        "Pinus"
+      ],
+      "Hemichordata": [
+        "Balanoglossus",
+        "Saccoglossus"
+      ],
+      "Human Neural System": [
+        "Afferent Efferent Nerves",
+        "Central Nervous System",
+        "Peripheral Nervous System",
+        "Sympathetic and Parasympathetic Nerves"
+      ],
+      "Human Respiration": [
+        "Breathing Mechanism Experiment",
+        "Process of Respiration",
+        "Respiration"
+      ],
+      "Human Respiratory System": [
+        "Respiratory System"
+      ],
+      "Light Reaction": [
+        "Light Harvesting Complex",
+        "Light Reaction",
+        "Photosystems"
+      ],
+      "Lymphatic System": [
+        "Lymphatic System"
+      ],
+      "Mammalia": [
+        "Balaenopetra",
+        "Marcopuc",
+        "Platypus",
+        "Pteropus"
+      ],
+      "Morphology of Flowering Plant": [
+        "Epigynous Flower",
+        "Hypogynous Flower",
+        "Perigynous Flower"
+      ],
+      "Nature of Bonding": [
+        "Glycosidic Bond",
+        "Peptide Bond"
+      ],
+      "Photorespiration": [
+        "C3 Plants",
+        "C4 Plants"
+      ],
+      "Pigment Involved in Photosynthesis": [
+        "Chloroplast",
+        "Thylakoids",
+        "Chromatography Separation of Leaf Pigment"
+      ],
+      "Platyhelminthes": [
+        "Liverfluke",
+        "Taenia"
+      ],
+      "Porifera": [
+        "Euspongia",
+        "Spongilla",
+        "Sycon"
+      ],
+      "Protiens": [
+        "Amino Acid Chain",
+        "Collagen",
+        "Insulin",
+        "Trypsin"
+      ],
+      "Protochordates": [
+        "Ascidia",
+        "Branchiostoma",
+        "Doliolum",
+        "Salpa"
+      ],
+      "Reflex Action and Arc": [
+        "Reflex Action and Arc"
+      ],
+      "Regulation of Respiration": [
+        "Regulation of Respiration"
+      ],
+      "Respiratory Organs": [
+        "Body Surface",
+        "Gills",
+        "Lungs",
+        "Moist Skin",
+        "Tracheal Tubes"
+      ],
+      "Secondary Growth": [
+        "Formation of Cambial Ring",
+        "Spring and Autumn Wood",
+        "Vascular Cambium"
+      ],
+      "Structure of Proteins": [
+        "Primary Structure",
+        "Quaternary Structure",
+        "Secondary Structure",
+        "Tertiary Structure"
+      ],
+      "The C4 Pathway": [
+        "C4 Pathway",
+        "Kranz Anatomy"
+      ],
+      "Transport of Gases": [
+        "Transport of Carbon Dioxide",
+        "Transport of Gases",
+        "Transport of Oxygen"
+      ],
+      "Where Does Photosynthesis Takes Place": [
+        "Photosynthesis"
+      ]
+    },
+    "Chemistry": {
+      "Arenes-Electrophilic Substitution Reaction": [
+        "Friedel-Crafts Acylation",
+        "Friedel-Crafts Alkylation",
+        "Halogenation",
+        "Nitration",
+        "Sulphonation"
+      ],
+      "Avogadro Law": [
+        "Avogadro Law"
+      ],
+      "Bohr's Model of an Atom": [
+        "Bohr Model",
+        "Energy change of Electron 1",
+        "Energy Change of Electron 2",
+        "Orbit",
+        "Quantized orbit",
+        "Size of the Orbit",
+        "Stability of Atom"
+      ],
+      "Bond Parameters": [
+        "Bond Angle",
+        "Bond Length",
+        "Nuclei distance",
+        "Vander Waal's Radius"
+      ],
+      "Charge to Mass Ratio of Electron": [
+        "Charge to Mass Ratio of Electron"
+      ],
+      "Chemical Properties of Water": [
+        "Amphoteric Nature",
+        "Hydrolysis Reaction",
+        "Redox Reaction Involving Water",
+        "Self Ionization",
+        "Water as Acid",
+        "Water as Base"
+      ],
+      "Covalent Bond": [
+        "Covalent Bond Between Two Chlorine Atom",
+        "Covalent Bond Between Two Chlorine Atoms",
+        "Covalent Bond in C2H2 Molecule",
+        "Covalent Bond in Carbon Dioxide Molecule",
+        "Covalent Bond in N2 Molecule",
+        "Covalent Bond in Water"
+      ],
+      "Discovery of Electron": [
+        "Cathode Ray Tube",
+        "Deflection Towards Fields",
+        "Perforated Anode"
+      ],
+      "Discovery of Neutron": [
+        "Discovery of Neutron"
+      ],
+      "Discovery of Proton": [
+        "Discovery of Proton"
+      ],
+      "Effect of Concentration Change on Equilibrium": [
+        "Concentration Change Experiment"
+      ],
+      "Electric Discharge through Gaseous Hydrogen": [
+        "Electric Discharge through Gaseous Hydrogen"
+      ],
+      "Electronic Configuration of Atoms": [
+        "Representation of Electron Population of an Orbital"
+      ],
+      "Emission and Absorption Spectra": [
+        "Absorption Spectrum",
+        "Comparison of Spectrum",
+        "Continuous Spectra",
+        "Emission Spectrum"
+      ],
+      "Energies of Orbitals": [
+        "Shielding of Outer Shell Electron"
+      ],
+      "Filling of Orbitals in Atom": [
+        "Aufbau Principle",
+        "Example of Hund's Rule",
+        "Pauli's Exclusion Principle"
+      ],
+      "Gay-Lussac's Law": [
+        "Gay-Lussac's Experiment"
+      ],
+      "Hydrogen Bonding": [
+        "Intermolecular Hydrogen bonding",
+        "Intramolecular Hydrogen Bonding"
+      ],
+      "Le Chatelier's Principle": [
+        "Le Chatelier's Principle"
+      ],
+      "Measurement of DU and DH": [
+        "Measurement of DH",
+        "Measurement of DU"
+      ],
+      "Particle Nature-Plank Quantum Theory": [
+        "Plank's Quantum Theory"
+      ],
+      "Purification of Colloidal Solutions": [
+        "Dialysis",
+        "Electro Dialysis",
+        "Ultra Filtration"
+      ],
+      "Redox Reaction as the Basis for Titrations": [
+        "Usage of Indicators"
+      ],
+      "Rutherford's Nuclear Model of Atom": [
+        "Alpha Scattering Experiment",
+        "Conclusion from Rutherford's Model"
+      ],
+      "SP Hybridization": [
+        "Definition",
+        "Formation of Linear Becl2 Molecule",
+        "Formation of SP Hybrid",
+        "Structure of Becl2 Molecule"
+      ],
+      "SP hybridization in C2H2": [
+        "Structure of Acetylene"
+      ],
+      "sp2 Hybridization in C2H4": [
+        "Hybridization in C2H4"
+      ],
+      "Sp3 Hybridization in Ammonia": [
+        "Hybridization in Ammonia"
+      ],
+      "Sp3 Hybridization in C2H6": [
+        "Sp3 Hybridization in C2H6 Molecule"
+      ],
+      "Sp3 Hybridization in Water Molecule": [
+        "Formation of Water Molecule"
+      ],
+      "Structure of Atoms": [
+        "Orbital Shapes",
+        "Plum Pudding Model",
+        "Structure of Atoms"
+      ],
+      "Structure of Water": [
+        "Structure of Water"
+      ],
+      "Types of System": [
+        "Closed System",
+        "Isolated System",
+        "Open System",
+        "System and Surroundings"
+      ],
+      "VSEPR Theory - Molecules with Lone Pair of Electrons": [
+        "Bent",
+        "Square Planar",
+        "T Shape",
+        "Tetrahedral Bent",
+        "Trigonal Pyramidal"
+      ],
+      "VSEPR Theory - Molecules with No Lone Pair of Electrons": [
+        "Linear",
+        "Octahedral",
+        "Tetrahedral",
+        "Trigonal Bipyramidal",
+        "Trigonal Planar"
+      ]
+    },
+    "Physics": {
+      "Acceleration": [
+        "Negative Acceleration",
+        "Positive Acceleration",
+        "Uniform Acceleration",
+        "Zero Acceleration"
+      ],
+      "Application of Elastic Behaviour": [
+        "Beam Loaded at the Centre",
+        "I Beam"
+      ],
+      "Potential Energy at a Height": [
+        "Gravitational Potential Energy at a Height"
+      ],
+      "Behaviour of Gases": [
+        "Boyle's Law",
+        "Charle's law"
+      ],
+      "Bernoulli's Principle": [
+        "Flow of an Ideal Fluid",
+        "Spray Gun",
+        "Toricelli's Law",
+        "Venturimeter"
+      ],
+      "Carnot Engine": [
+        "Carnot Engine"
+      ],
+      "Centre of Gravity": [
+        "Balancing Cardboard",
+        "Irregular Shape"
+      ],
+      "Centre of Mass": [
+        "Projectile Motion",
+        "Two Particle System"
+      ],
+      "Change of State": [
+        "Boiling, Vapourization and Condensation",
+        "Fusion",
+        "Melting",
+        "Regelation",
+        "Sublimation"
+      ],
+      "Circular Motion": [
+        "Motion of Car on Banked Road",
+        "Motion of Car on level Road"
+      ],
+      "Collisions": [
+        "Collision in One Dimension",
+        "Collision in Two Dimension"
+      ],
+      "Conservation of Angular Momentum": [
+        "Conservation of Angular Momentum"
+      ],
+      "Conservation of Momentum": [
+        "Newton's Cradle"
+      ],
+      "Cyclotron": [
+        "Cyclotron"
+      ],
+      "Damped SHM": [
+        "Damped SHM"
+      ],
+      "Degree of Freedom": [
+        "One Degree of Freedom",
+        "Rotation of Diatomic Molecule",
+        "Three Degree of Freedom",
+        "Two Degree of Freedom"
+      ],
+      "Discovery of Neutrons and Protons": [
+        "Discovery of Proton",
+        "Discovery of Neutron"
+      ],
+      "Doppler Effect": [
+        "Observer Moving",
+        "Source and Observer Moving",
+        "Source Moving"
+      ],
+      "Dynamic Lift": [
+        "Aerofoil"
+      ],
+      "Forced Oscillations and Resonance": [
+        "Different Length of Pendulum",
+        "Swing"
+      ],
+      "Gravitational Potential Energy": [
+        "Gravitational Potential Energy"
+      ],
+      "Heat Engine": [
+        "Heat Engine 1",
+        "Heat Engine 2"
+      ],
+      "Heat Transfer": [
+        "Land Breeze",
+        "Sea Breeze"
+      ],
+      "Kepler's Law": [
+        "Law of Areas",
+        "Law of Orbits"
+      ],
+      "Laws of Thermodynamics": [
+        "First law of Thermodynamics",
+        "Second Law of Thermodynamics",
+        "Zeroth Law of Thermodynamics"
+      ],
+      "Mean Free Path": [
+        "Expression for Mean Free Path",
+        "Mean Free Path"
+      ],
+      "Moment of Inertia": [
+        "Circular Disk",
+        "Cylinder",
+        "Solid Sphere",
+        "Thin Circular Ring",
+        "Thin Rod"
+      ],
+      "Newton's First Law of Motion": [
+        "Inertia of Motion",
+        "Inertia of Rest"
+      ],
+      "Newton's Law of Cooling": [
+        "Newton's Cooling Law",
+        "Newton's Law of Cooling"
+      ],
+      "Newton's Second Law of Motion": [
+        "Catching High Force Ball",
+        "Catching Small Force Ball",
+        "Dropping a Small Ball",
+        "Dropping Weighted Ball"
+      ],
+      "Newton's Third Law of Motion": [
+        "Man Jumping from Boat",
+        "Recoil of Gun"
+      ],
+      "Orbital and Escape Velocity": [
+        "Escape Velocity",
+        "Orbital Velocity"
+      ],
+      "Parallax Method": [
+        "Distance to Far Away Planet",
+        "Distance to Nearby Star"
+      ],
+      "Pascal\u2019s Law": [
+        "Hydraulic Brake",
+        "Hydraulic Lift",
+        "Hydrostatic Paradox",
+        "Mercury Barometer",
+        "Open Tube Manometer"
+      ],
+      "Path Length and Displacement": [
+        "Path Length and Displacement"
+      ],
+      "Plane Angle and Solid Angle": [
+        "Plane Angle",
+        "Solid Angle"
+      ],
+      "Potentiometer": [
+        "Measurement of Internal Resistance",
+        "Potentiometer"
+      ],
+      "Projectile Motion": [
+        "Projectile Motion"
+      ],
+      "Relative velocity in One Dimension": [
+        "Car Moving in Opposite Direction",
+        "Cars Moving in Same Direction",
+        "Cars Moving with Same Speed"
+      ],
+      "Relative Velocity in Two Dimension": [
+        "Rain Problem",
+        "Relative Velocity Between Two Cars"
+      ],
+      "Rigid Body Motion": [
+        "Oscillating Table Fan",
+        "Rolling Motion",
+        "Rotation about a Fixed Axis"
+      ],
+      "Rolling Motion": [
+        "Rolling of Disk"
+      ],
+      "SHM and Uniform Circular Motion": [
+        "SHM and Uniform Circular Motion"
+      ],
+      "Stress": [
+        "Shearing Stress",
+        "Tensile Stress"
+      ],
+      "Thermal Expansion": [
+        "Area Expansion",
+        "Linear Expansion",
+        "Volume Expansion"
+      ],
+      "Thermodynamic Process": [
+        "Adiabatic Process",
+        "Isobaric Process",
+        "Isochoric Process",
+        "Isothermal Process"
+      ],
+      "Uniform Circular Motion": [
+        "Uniform Circular Motion"
+      ],
+      "Wheatstone Bridge": [
+        "Wheatstone Bridge"
+      ]
+    },
+    "Maths": {
+      "Fundamental Principle of Counting": [
+        "Bag, Tiffin and Bottle",
+        "Lock",
+        "Number Plates"
+      ],
+      "Application of Permutation and Combination": [
+        "Squares of Red ,Green and Blue",
+        "3 Shirts and 2 Trousers"
+      ],
+      "Factorial Notation": [],
+      "Types of Sets": [
+        "Empty Set",
+        "Equal Set",
+        "Finite Set",
+        "Sub Set"
+      ],
+      "Union and Intersection of Sets": [
+        "Intersection set",
+        "Union Set"
+      ],
+      "Venn Diagrams": [
+        "Venn Diagrams"
+      ]
+    }
+  },
+  "12": {
+    "Biology": {
+      "Air Pollution and its Control": [
+        "Catalytic Converters",
+        "Electrostatic Precipitator",
+        "Scrubber"
+      ],
+      "Common Disease in Human": [
+        "Lifecycle of Plasmodium"
+      ],
+      "Degradation by Improper Resources Utilisation": [
+        "Soil Erosion and Desertification",
+        "Water Logging and Soil Salinity"
+      ],
+      "DNA": [
+        "Central Dogma",
+        "DNA",
+        "Nitrogen Bases",
+        "Packaging of DNA Helix"
+      ],
+      "DNA Fingerprinting": [
+        "Bulk DNA",
+        "DNA Finger Printing",
+        "Mini and Microsatellite",
+        "Repetitive Satellite DNA"
+      ],
+      "Genetic Code": [
+        "Predicting Amino Acids from the Codons",
+        "Properties of Genetic Codon"
+      ],
+      "Human Genome Project": [
+        "Automated Sequence",
+        "Expressed Sequence",
+        "Sequence Annotation"
+      ],
+      "Human Reproduction": [
+        "Female Reproductive System",
+        "Female Reproductive System 2",
+        "Gametogenesis Female",
+        "Gametogenesis Male",
+        "Human Process of Fertilization Inside Ovary",
+        "Male Reproductive System",
+        "Male Reproductive System 2",
+        "Menstrual Cycle"
+      ],
+      "Immunity": [
+        "Antibody Molecule"
+      ],
+      "Integrated Organic Farming": [
+        "Integrated Organic Farming"
+      ],
+      "Integrated Waste Water System": [
+        "Dry Composting Toilets",
+        "Wastewater Treatment Plant of Arcata"
+      ],
+      "Lac Operon": [
+        "In the Absence of an Inducer",
+        "In the Presence of an Inducer"
+      ],
+      "Mutations and Genetic Code": [
+        "Frameshift Mutation",
+        "Point Mutation",
+        "tRNA Adapter Molecule"
+      ],
+      "Ozone Layer Depletion": [
+        "Snow Blindness"
+      ],
+      "PCR": [
+        "PCR"
+      ],
+      "People's Participation in Conservation of Forests": [
+        "Chipko Movement"
+      ],
+      "Pregnancy and Embryonic Development": [
+        "Pregnancy and Embryonic Development"
+      ],
+      "Replication": [
+        "Formation of Replication Fork",
+        "Meselson and Stahi's Experiment",
+        "Primary Binding and Elongation",
+        "Semi Conservative Model DNA"
+      ],
+      "RNA": [
+        "RNA"
+      ],
+      "Search for Genetic Material": [
+        "Biochemical Characterisation of Transforming Principle",
+        "Griffith's Experiment",
+        "The Hershey Chase Experiment"
+      ],
+      "Solid Waste": [
+        "E-Waste",
+        "Glass Bottles",
+        "Landfills",
+        "Plastic",
+        "Plastic Bag",
+        "Solid Waste",
+        "Type of Wastes"
+      ],
+      "Transcription": [
+        "Transcription"
+      ],
+      "Translation": [
+        "Translation"
+      ],
+      "Water Pollution and its Control": [
+        "Algal Bloom",
+        "Biomagnification",
+        "Eutrophication",
+        "Natural and Cultural Eutrophication"
+      ]
+    },
+    "Chemistry": {
+      "Ammonia": [
+        "Haber's Process"
+      ],
+      "Close Pack Structures": [
+        "Close Pack 1D",
+        "Close Pack 2D",
+        "Hexagonal Close Pack",
+        "Placing 2 on 1",
+        "Placing abab",
+        "Placing abcab",
+        "Square Close Pack"
+      ],
+      "Collision Theory of Chemical Reactions": [
+        "Effective Collision",
+        "Ineffective Collision"
+      ],
+      "Coordination polyhedron": [
+        "Octahedral",
+        "Square Pyramidal",
+        "Tetrahedral",
+        "Trigonal Bipyramidal"
+      ],
+      "Crystal Field Theory": [
+        "d Orbital Splitting in an Octahedral Crystal Field",
+        "d Orbital Splitting in an Tetrahedral Crystal Field"
+      ],
+      "Cyclic Structure of Glucose and Fructose": [
+        "Cyclic Structure of Fructose"
+      ],
+      "Electrochemical Cells": [
+        "Daniel Cell"
+      ],
+      "Factors Affecting Rate of a Reaction": [
+        "Concentration of Reactants",
+        "Presence of Catalyst",
+        "Temperature"
+      ],
+      "Hall Heroult Process": [
+        "Hall Heroult Process"
+      ],
+      "Hexagonal ,Rhombohedral and Triclinic Lattices": [
+        "Unit cell of Hexagonal Lattice",
+        "Unit Cell of Triclinic Lattice"
+      ],
+      "Impurity Defect": [
+        "Impurity Defect"
+      ],
+      "Measurement of Electrode Potential": [
+        "Measurement of Electrode Potential"
+      ],
+      "Molecularity of a Reaction": [
+        "Biomolecular Reaction"
+      ],
+      "Non Stoichiometric Defect": [
+        "Metal Deficiency Defect",
+        "Metal Excess Defect"
+      ],
+      "Nucleophilic Substitution Reactions": [
+        "SN1 Mechanism",
+        "SN2 Mechanism"
+      ],
+      "Number of atoms in a unit cell": [
+        "Body Centered Cubic Unit Cell",
+        "Face Centered Cubic Unit Cell",
+        "Primitive Cubic Unit Cell"
+      ],
+      "Oxoacids of Chlorine": [
+        "Chloric Acid",
+        "Chlorous Acid",
+        "Hyphochlorous Acid",
+        "Perchloric Acid"
+      ],
+      "Packing Efficiency": [
+        "Body Centered Cubic Lattice",
+        "Simple Cubic Cell"
+      ],
+      "Potassium Dichromite": [
+        "Chromate and Dichromate Ion",
+        "Preparation of Potassium Dichromate"
+      ],
+      "Preparation of Haloalkanes": [
+        "Free Radical Halogenation",
+        "From Alkenes",
+        "Swartz Reaction"
+      ],
+      "Refining": [
+        "Chromatography",
+        "Electrolytic Refining",
+        "Vapour Phase Refining",
+        "Zone Refining"
+      ],
+      "Secondary Batteries": [
+        "Rechargeable Nickel-Cadmium Cell",
+        "Lead Storage Battery"
+      ],
+      "Solubility of Gas in liquid": [
+        "Effect of Pressure"
+      ],
+      "Stereochemical Principles": [
+        "Chirality",
+        "Optical Activity"
+      ],
+      "Stoichiometric Defects": [
+        "Frenkel Defect",
+        "Interstitial Defect",
+        "Schottky Defect",
+        "Vacancy Defect"
+      ],
+      "Structure of Amines": [
+        "Structure of Amines"
+      ],
+      "Structure of Functional Groups": [
+        "Methanol",
+        "Methoxymethane",
+        "Phenol"
+      ],
+      "Synthetic Detergents": [
+        "Anionic Detergent",
+        "Cationic Detergent"
+      ],
+      "Types of Adsorption": [
+        "Chemisorption",
+        "Physisortion"
+      ],
+      "Unit Cell of Tetragonal Lattices": [
+        "Body Centered  Tetragonal Lattice",
+        "Primitive Tetragonal Lattice"
+      ],
+      "Unit Cells of Cubic Lattice": [
+        "Body - centered Orthorhombic Lattice",
+        "Body Centered Cubic Lattice",
+        "End Centered  Orthorhombic Lattice",
+        "Face Centered Cubic Lattice",
+        "Primitive Cubic Lattice",
+        "Primitive Orthorhombic Lattice"
+      ],
+      "Valence Bond Theory": [
+        "dsp2 Hybridisation",
+        "sp3d2 Hybridization"
+      ],
+      "Void": [
+        "Octahedral Void",
+        "Tetrahedral Void"
+      ],
+      "Werner's Theory": [
+        "Compounds of Cobalt Chloride",
+        "Primary and Secondary Valancies"
+      ]
+    },
+    "Maths": {
+      "Area of a General Quadrilateral": [
+        "Area of Special Quadrilateral"
+      ],
+      "Trigonometry": [
+        "Height of Slide"
+      ]
+    },
+    "Physics": {
+      "Electrostatics": [
+        "Like charges Repel",
+        "Unlike Charges Attract",
+        "Linear Charge Distribution",
+        "Surface Charge Distribution",
+        "Volume Charge Distribution",
+        "Electric Field of a Point Charge",
+        "Field Lines around a System of Two Equal and Opposite Charges",
+        "Field Lines of Positive Charges",
+        "Electric Flux",
+        "Electrostatic Shielding",
+        "Electrostatic Shielding Inside a Car"
+      ],
+      "Gauss's Law": [
+        "Gauss's Law",
+        "Field due To Infinite Conductor",
+        "Field Due to Uniform Sheet",
+        "Field Inside Charged Shell",
+        "Field Outside Charged Shell"
+      ],
+      "Magnetic Effects of Current": [
+        "Magnetic Effects of Electric Current",
+        "Magnetic Elements of Earth",
+        "Toroid",
+        "Toroidal Symmetry",
+        "Biot Savart's Law",
+        "Motion in Magnetic Field",
+        "Moving Coil Galvanometer",
+        "Meter Bridge",
+        "Revolving Electron",
+        "Torque on Current Loop"
+      ],
+      "Ray Optics": [
+        "Cartesian Sign Convention",
+        "Reflection by a Plane Surface",
+        "Refraction on a Denser Medium",
+        "Refraction on a Rarer Medium",
+        "Spherical Surface Refraction"
+      ],
+      "Wave Optics": [
+        "Diverging Spherical Wave",
+        "Secondary Wavelets"
+      ],
+      "Dual Nature of Matter": [
+        "Photo Electric Effect"
+      ],
+      "Work Energy and Power": [
+        "Conservation of Mechanical Energy",
+        "Potential Energy of a String",
+        "Work Done on an Object with Different Paths"
+      ],
+      "Gravitation": [
+        "Cavendish Experiment",
+        "Earth-Moon System"
+      ]
+    }
+  }
+}
