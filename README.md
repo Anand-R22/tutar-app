@@ -1,5 +1,11 @@
 # TutAR — Vector Search Pipeline
 
+## 🌐 Live Demo
+
+**[https://tutar-app-1.onrender.com/](https://tutar-app-1.onrender.com/)**
+
+> ⏳ Hosted on Render's free tier, so the first load after idle time may take 30-60 seconds.
+
 ## What is this project?
 
 TutAR is a 3D teaching aid platform for K-12 teachers. This project solves a critical performance problem in TutAR's AI-powered 3D model search feature by implementing a real HNSW vector search pipeline.
