@@ -19,11 +19,11 @@
       <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
       Search Models
     </a>
-    <a class="nav-item" href="#">
+    <a class="nav-item disabled" href="#" title="Not part of this proof of concept" onclick="return false">
       <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M3 3h18v18H3z"/></svg>
       My Canvas
     </a>
-    <a class="nav-item" href="#">
+    <a class="nav-item disabled" href="#" title="Not part of this proof of concept" onclick="return false">
       <svg width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
       All Models
     </a>
@@ -77,7 +77,7 @@
       </div>
       <div class="filter-group">
         <label>&nbsp;</label>
-        <button class="btn-search" onclick="doSearch()">Search</button>
+        <button class="btn-search" id="searchBtn" onclick="doSearch()">Search</button>
       </div>
     </div>
 
@@ -92,6 +92,9 @@
     </div>
   </div>
 
+  <!-- Error banner -->
+  <div class="error-banner hidden" id="errorBanner" role="alert"></div>
+
   <!-- Empty state -->
   <div class="empty-state" id="emptyState">
     <div class="empty-icon">🔍</div>
@@ -102,7 +105,7 @@
   <!-- Loading -->
   <div class="loading hidden" id="loading">
     <div class="spinner"></div>
-    <p>Searching with HNSW vector search...</p>
+    <p>Searching the catalogue by meaning...</p>
   </div>
 
   <!-- Results -->
@@ -119,6 +122,9 @@
       </button>
     </div>
 
+    <!-- Shown when filters had to be broadened -->
+    <div class="notice hidden" id="fallbackNotice"></div>
+
     <!-- Pipeline Stats (collapsible) -->
     <div class="pipeline-panel hidden" id="pipelinePanel">
       <div class="pipeline-grid">
@@ -128,19 +134,19 @@
           <div class="pipe-stat-sub">Full catalogue</div>
         </div>
         <div class="pipe-stat">
-          <div class="pipe-stat-label">HNSW Retrieved</div>
+          <div class="pipe-stat-label">Models Retrieved</div>
           <div class="pipe-stat-value green" id="pMatched">—</div>
-          <div class="pipe-stat-sub">Semantically matched</div>
+          <div class="pipe-stat-sub">Closest by meaning</div>
         </div>
         <div class="pipe-stat">
           <div class="pipe-stat-label">Token Reduction</div>
           <div class="pipe-stat-value purple" id="pReduction">—</div>
-          <div class="pipe-stat-sub">Tokens saved</div>
+          <div class="pipe-stat-sub">Estimated tokens saved</div>
         </div>
         <div class="pipe-stat">
           <div class="pipe-stat-label">Search Time</div>
           <div class="pipe-stat-value blue" id="pLatency">—</div>
-          <div class="pipe-stat-sub">HNSW vector search</div>
+          <div class="pipe-stat-sub">Embedding + Pinecone query</div>
         </div>
       </div>
 
